@@ -10,13 +10,20 @@ Current version can be pointed at either a directory container a Hour's files ho
 At a day day=XX or
 at entire month month=XX.
 
-### ToDo:
+## ToDo:
 
+### Targeted Loading
 Will add capability to specify a range to load... i.e. 
 
 - either set of hours, 
 - or set of days.
+
+### Monitoring
+
 - Prometheus metrics to be pushed to a Prometheus Gateway.
+
+### Logging
+
 - ModifyLog format potentially, to include source file name (and records loaded) in every line => " Month Process Time, St", for improved log analytics.
 
 
