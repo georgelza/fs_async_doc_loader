@@ -247,17 +247,16 @@ def fileProcessor(fileName, mongodb_collection):
     step0endtime = datetime.now()
     step0end = perf_counter()
     step0time = step0end - step0start
-
-    logger.info("    Process Time,         St:{start}  Et:{end}   Rt:{runtime}".format(
+    rate = str( round(recs/step0time,2))
+    
+    logger.info("    Process Stats         St:{start},  Et:{end},   Rt:{runtime}, Recs:{recs} docs, Rate:{rate} docs/s, File:{file}".format(
         start=str(step0starttime.strftime("%Y-%m-%d %H:%M:%S.%f")),
         end=str(step0endtime.strftime("%Y-%m-%d %H:%M:%S.%f")),
-        runtime=str(step0time)))
-
-    logger.info("    Records Processed       :{rec} docs".format(
-        rec=recs))
-
-    logger.info("    Process Rate            :{rate} docs/s".format(
-        rate=str( round(recs/step0time,2) )))
+        runtime=str(step0time),
+        recs=recs,
+        rate=rate,
+        file=fileName
+        ))
     
     return recs
 
@@ -289,18 +288,16 @@ def hourProcess(hour_dir, mongodb_collection):
     step0endtime = datetime.now()
     step0end = perf_counter()
     step0time = step0end - step0start  
+    rate = str( round(recs/step0time,2))
     
     logger.info("")
-    logger.info("  Hour Processing Time,  St :{start}   Et:{end}   Rt:{runtime}".format(
+    logger.info("  Hour Process Stats     St:{start},  Et:{end},   Rt:{runtime}, Recs:{recs} docs, Rate:{rate} docs/s".format(
         start=str(step0starttime.strftime("%Y-%m-%d %H:%M:%S.%f")),
         end=str(step0endtime.strftime("%Y-%m-%d %H:%M:%S.%f")),
-        runtime=str(step0time)))
-    
-    logger.info("  Hour Records Processed    :{rec} docs".format(
-        rec=recs))
-    
-    logger.info("  Hour Process Rate         :{rate} docs/s".format(
-        rate=str( round(recs/step0time,2) )))
+        runtime=str(step0time),
+        recs=recs,
+        rate=rate
+        ))
     
     logger.info("")
     
@@ -329,17 +326,15 @@ def dayProcess(day_dir, mongodb_collection):
     step0endtime = datetime.now()
     step0end = perf_counter()
     step0time = step0end - step0start     
+    rate = str( round(recs/step0time,2))
 
-    logger.info("  Day Processing Time,    St:{start}   Et:{end}   Rt:{runtime}".format(
+    logger.info("  Day Process Stats       St:{start},  Et:{end},   Rt:{runtime}, Recs:{recs} docs, Rate:{rate} docs/s".format(
         start=str(step0starttime.strftime("%Y-%m-%d %H:%M:%S.%f")),
         end=str(step0endtime.strftime("%Y-%m-%d %H:%M:%S.%f")),
-        runtime=str(step0time)))
-       
-    logger.info("  Day Records Processed     :{rec} docs".format(
-        rec=recs))
-    
-    logger.info("  Day Process Rate          :{rate} docs/s".format(
-        rate=str( round(recs/step0time,2) )))
+        runtime=str(step0time),
+        recs=recs,
+        rate=rate
+        ))
     
     logger.info("")
     
@@ -369,17 +364,15 @@ def monthProcess(month_dir, mongodb_collection):
     step0endtime = datetime.now()
     step0end = perf_counter()
     step0time = step0end - step0start     
+    rate = str( round(recs/step0time,2))
 
-    logger.info("  Month Process Time, St:{start}   Et:{end}   Rt:{runtime}".format(
+    logger.info("  Month Process Stats St:{start},  Et:{end},   Rt:{runtime}, Recs:{recs} docs, Rate:{rate} docs/s".format(
         start=str(step0starttime.strftime("%Y-%m-%d %H:%M:%S.%f")),
         end=str(step0endtime.strftime("%Y-%m-%d %H:%M:%S.%f")),
-        runtime=str(step0time)))
-    
-    logger.info("  Month Records Processed  :{rec} docs".format(
-        rec=recs))
-    
-    logger.info("  Month Process Rate       :{rate} docs/s".format(
-        rate=str( round(recs/step0time,2) )))
+        runtime=str(step0time),
+        recs=recs,
+        rate=rate
+        ))
     
     logger.info("")
     
