@@ -5323,3 +5323,1452 @@
 2024-09-12 08:36:22,704 - INFO -     Process Rate            :4128.68 docs/s
 2024-09-12 08:36:22,704 - INFO - 
 2024-09-12 08:36:22,704 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=10/AsyncOut+0+1011909054.json.gz
+2024-09-12 08:36:36,902 - INFO -     Process Time,         St:2024-09-12 08:36:22.704273  Et:2024-09-12 08:36:36.902507   Rt:14.19791254203301
+2024-09-12 08:36:36,902 - INFO -     Records Processed       :191699 docs
+2024-09-12 08:36:36,902 - INFO -     Process Rate            :13501.91 docs/s
+2024-09-12 08:36:36,903 - INFO - 
+2024-09-12 08:36:36,903 - INFO -   Hour Processing Time,  St :2024-09-12 08:36:22.703196   Et:2024-09-12 08:36:36.903947   Rt:14.200427209027112
+2024-09-12 08:36:36,904 - INFO -   Hour Records Processed    :191700 docs
+2024-09-12 08:36:36,904 - INFO -   Hour Process Rate         :13499.59 docs/s
+2024-09-12 08:36:36,904 - INFO - 
+2024-09-12 08:36:36,904 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=11
+2024-09-12 08:36:36,904 - INFO - 
+2024-09-12 08:36:36,904 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=11/AsyncOut+0+1012100753.json.gz
+2024-09-12 08:37:23,379 - INFO -     Process Time,         St:2024-09-12 08:36:36.904942  Et:2024-09-12 08:37:23.379790   Rt:46.47378762497101
+2024-09-12 08:37:23,379 - INFO -     Records Processed       :623878 docs
+2024-09-12 08:37:23,379 - INFO -     Process Rate            :13424.3 docs/s
+2024-09-12 08:37:23,381 - INFO - 
+2024-09-12 08:37:23,381 - INFO -   Hour Processing Time,  St :2024-09-12 08:36:36.904076   Et:2024-09-12 08:37:23.381574   Rt:46.476434124982916
+2024-09-12 08:37:23,381 - INFO -   Hour Records Processed    :623878 docs
+2024-09-12 08:37:23,381 - INFO -   Hour Process Rate         :13423.53 docs/s
+2024-09-12 08:37:23,381 - INFO - 
+2024-09-12 08:37:23,381 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=12
+2024-09-12 08:37:23,382 - INFO - 
+2024-09-12 08:37:23,382 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=12/AsyncOut+0+1012724631.json.gz
+2024-09-12 08:38:44,143 - INFO -     Process Time,         St:2024-09-12 08:37:23.382927  Et:2024-09-12 08:38:44.143438   Rt:80.75866570894141
+2024-09-12 08:38:44,143 - INFO -     Records Processed       :1000000 docs
+2024-09-12 08:38:44,143 - INFO -     Process Rate            :12382.57 docs/s
+2024-09-12 08:38:44,143 - INFO - 
+2024-09-12 08:38:44,143 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=12/AsyncOut+0+1013724631.json.gz
+2024-09-12 08:39:20,327 - INFO -     Process Time,         St:2024-09-12 08:38:44.143981  Et:2024-09-12 08:39:20.327629   Rt:36.18282258301042
+2024-09-12 08:39:20,327 - INFO -     Records Processed       :500060 docs
+2024-09-12 08:39:20,327 - INFO -     Process Rate            :13820.37 docs/s
+2024-09-12 08:39:20,327 - INFO - 
+2024-09-12 08:39:20,327 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=12/AsyncOut+0+1014224733.json.gz
+2024-09-12 08:39:20,329 - INFO -     Process Time,         St:2024-09-12 08:39:20.328000  Et:2024-09-12 08:39:20.329171   Rt:0.0011736670276150107
+2024-09-12 08:39:20,329 - INFO -     Records Processed       :1 docs
+2024-09-12 08:39:20,329 - INFO -     Process Rate            :852.03 docs/s
+2024-09-12 08:39:20,329 - INFO - 
+2024-09-12 08:39:20,329 - INFO -   Hour Processing Time,  St :2024-09-12 08:37:23.381785   Et:2024-09-12 08:39:20.329344   Rt:116.94487895793281
+2024-09-12 08:39:20,329 - INFO -   Hour Records Processed    :1500061 docs
+2024-09-12 08:39:20,329 - INFO -   Hour Process Rate         :12827.08 docs/s
+2024-09-12 08:39:20,329 - INFO - 
+2024-09-12 08:39:20,329 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=13
+2024-09-12 08:39:20,330 - INFO - 
+2024-09-12 08:39:20,330 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=13/AsyncOut+0+1014224691.json.gz
+2024-09-12 08:39:20,332 - INFO -     Process Time,         St:2024-09-12 08:39:20.330374  Et:2024-09-12 08:39:20.332399   Rt:0.0020273339468985796
+2024-09-12 08:39:20,332 - INFO -     Records Processed       :42 docs
+2024-09-12 08:39:20,332 - INFO -     Process Rate            :20716.86 docs/s
+2024-09-12 08:39:20,332 - INFO - 
+2024-09-12 08:39:20,332 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=13/AsyncOut+0+1014224734.json.gz
+2024-09-12 08:40:33,771 - INFO -     Process Time,         St:2024-09-12 08:39:20.332654  Et:2024-09-12 08:40:33.771715   Rt:73.43737933400553
+2024-09-12 08:40:33,772 - INFO -     Records Processed       :1000000 docs
+2024-09-12 08:40:33,772 - INFO -     Process Rate            :13617.04 docs/s
+2024-09-12 08:40:33,772 - INFO - 
+2024-09-12 08:40:33,772 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=13/AsyncOut+0+1015224734.json.gz
+2024-09-12 08:40:58,999 - INFO -     Process Time,         St:2024-09-12 08:40:33.772181  Et:2024-09-12 08:40:58.999145   Rt:25.22638945793733
+2024-09-12 08:40:58,999 - INFO -     Records Processed       :328649 docs
+2024-09-12 08:40:58,999 - INFO -     Process Rate            :13027.98 docs/s
+2024-09-12 08:40:59,000 - INFO - 
+2024-09-12 08:40:59,000 - INFO -   Hour Processing Time,  St :2024-09-12 08:39:20.329627   Et:2024-09-12 08:40:59.000446   Rt:98.66856120806187
+2024-09-12 08:40:59,000 - INFO -   Hour Records Processed    :1328691 docs
+2024-09-12 08:40:59,000 - INFO -   Hour Process Rate         :13466.2 docs/s
+2024-09-12 08:40:59,000 - INFO - 
+2024-09-12 08:40:59,000 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=14
+2024-09-12 08:40:59,001 - INFO - 
+2024-09-12 08:40:59,001 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=14/AsyncOut+0+1015553383.json.gz
+2024-09-12 08:42:15,248 - INFO -     Process Time,         St:2024-09-12 08:40:59.001598  Et:2024-09-12 08:42:15.248421   Rt:76.24508449994028
+2024-09-12 08:42:15,248 - INFO -     Records Processed       :1000000 docs
+2024-09-12 08:42:15,248 - INFO -     Process Rate            :13115.6 docs/s
+2024-09-12 08:42:15,248 - INFO - 
+2024-09-12 08:42:15,248 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=14/AsyncOut+0+1016553383.json.gz
+2024-09-12 08:42:28,802 - INFO -     Process Time,         St:2024-09-12 08:42:15.248929  Et:2024-09-12 08:42:28.802042   Rt:13.55280645901803
+2024-09-12 08:42:28,802 - INFO -     Records Processed       :172524 docs
+2024-09-12 08:42:28,802 - INFO -     Process Rate            :12729.76 docs/s
+2024-09-12 08:42:28,803 - INFO - 
+2024-09-12 08:42:28,803 - INFO -   Hour Processing Time,  St :2024-09-12 08:40:59.000637   Et:2024-09-12 08:42:28.803472   Rt:89.8007802919019
+2024-09-12 08:42:28,803 - INFO -   Hour Records Processed    :1172524 docs
+2024-09-12 08:42:28,803 - INFO -   Hour Process Rate         :13056.95 docs/s
+2024-09-12 08:42:28,803 - INFO - 
+2024-09-12 08:42:28,803 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=15
+2024-09-12 08:42:28,804 - INFO - 
+2024-09-12 08:42:28,804 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=15/AsyncOut+0+1016725907.json.gz
+2024-09-12 08:42:53,369 - INFO -     Process Time,         St:2024-09-12 08:42:28.804641  Et:2024-09-12 08:42:53.369608   Rt:24.564408750040457
+2024-09-12 08:42:53,369 - INFO -     Records Processed       :308816 docs
+2024-09-12 08:42:53,369 - INFO -     Process Rate            :12571.68 docs/s
+2024-09-12 08:42:53,371 - INFO - 
+2024-09-12 08:42:53,371 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=15/AsyncOut+0+1017034726.json.gz
+2024-09-12 08:42:53,372 - INFO -     Process Time,         St:2024-09-12 08:42:53.371555  Et:2024-09-12 08:42:53.372145   Rt:0.0005905840080231428
+2024-09-12 08:42:53,372 - INFO -     Records Processed       :5 docs
+2024-09-12 08:42:53,372 - INFO -     Process Rate            :8466.2 docs/s
+2024-09-12 08:42:53,372 - INFO - 
+2024-09-12 08:42:53,372 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=15/AsyncOut+0+1017034734.json.gz
+2024-09-12 08:42:53,372 - INFO -     Process Time,         St:2024-09-12 08:42:53.372325  Et:2024-09-12 08:42:53.372730   Rt:0.000405416009016335
+2024-09-12 08:42:53,372 - INFO -     Records Processed       :2 docs
+2024-09-12 08:42:53,372 - INFO -     Process Rate            :4933.2 docs/s
+2024-09-12 08:42:53,372 - INFO - 
+2024-09-12 08:42:53,372 - INFO -   Hour Processing Time,  St :2024-09-12 08:42:28.803651   Et:2024-09-12 08:42:53.372825   Rt:24.56861104106065
+2024-09-12 08:42:53,372 - INFO -   Hour Records Processed    :308823 docs
+2024-09-12 08:42:53,372 - INFO -   Hour Process Rate         :12569.82 docs/s
+2024-09-12 08:42:53,372 - INFO - 
+2024-09-12 08:42:53,372 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=16
+2024-09-12 08:42:53,373 - INFO - 
+2024-09-12 08:42:53,373 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=16/AsyncOut+0+1017034723.json.gz
+2024-09-12 08:42:53,373 - INFO -     Process Time,         St:2024-09-12 08:42:53.373396  Et:2024-09-12 08:42:53.373708   Rt:0.0003119169268757105
+2024-09-12 08:42:53,373 - INFO -     Records Processed       :3 docs
+2024-09-12 08:42:53,373 - INFO -     Process Rate            :9617.95 docs/s
+2024-09-12 08:42:53,373 - INFO - 
+2024-09-12 08:42:53,373 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=16/AsyncOut+0+1017034731.json.gz
+2024-09-12 08:42:53,374 - INFO -     Process Time,         St:2024-09-12 08:42:53.373823  Et:2024-09-12 08:42:53.374249   Rt:0.0004272919613867998
+2024-09-12 08:42:53,374 - INFO -     Records Processed       :3 docs
+2024-09-12 08:42:53,374 - INFO -     Process Rate            :7020.96 docs/s
+2024-09-12 08:42:53,374 - INFO - 
+2024-09-12 08:42:53,374 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=16/AsyncOut+0+1017034736.json.gz
+2024-09-12 08:43:03,054 - INFO -     Process Time,         St:2024-09-12 08:42:53.374368  Et:2024-09-12 08:43:03.054807   Rt:9.680222125025466
+2024-09-12 08:43:03,055 - INFO -     Records Processed       :116727 docs
+2024-09-12 08:43:03,055 - INFO -     Process Rate            :12058.3 docs/s
+2024-09-12 08:43:03,057 - INFO - 
+2024-09-12 08:43:03,057 - INFO -   Hour Processing Time,  St :2024-09-12 08:42:53.372921   Et:2024-09-12 08:43:03.057069   Rt:9.68392933299765
+2024-09-12 08:43:03,057 - INFO -   Hour Records Processed    :116733 docs
+2024-09-12 08:43:03,057 - INFO -   Hour Process Rate         :12054.3 docs/s
+2024-09-12 08:43:03,057 - INFO - 
+2024-09-12 08:43:03,057 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=17
+2024-09-12 08:43:03,057 - INFO - 
+2024-09-12 08:43:03,057 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=17/AsyncOut+0+1017151463.json.gz
+2024-09-12 08:43:12,710 - INFO -     Process Time,         St:2024-09-12 08:43:03.057888  Et:2024-09-12 08:43:12.710487   Rt:9.65238095796667
+2024-09-12 08:43:12,710 - INFO -     Records Processed       :119490 docs
+2024-09-12 08:43:12,710 - INFO -     Process Rate            :12379.33 docs/s
+2024-09-12 08:43:12,711 - INFO - 
+2024-09-12 08:43:12,712 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:03.057333   Et:2024-09-12 08:43:12.711968   Rt:9.65441437496338
+2024-09-12 08:43:12,712 - INFO -   Hour Records Processed    :119490 docs
+2024-09-12 08:43:12,712 - INFO -   Hour Process Rate         :12376.72 docs/s
+2024-09-12 08:43:12,712 - INFO - 
+2024-09-12 08:43:12,712 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=18
+2024-09-12 08:43:12,712 - INFO - 
+2024-09-12 08:43:12,712 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=18/AsyncOut+0+1017270953.json.gz
+2024-09-12 08:43:19,637 - INFO -     Process Time,         St:2024-09-12 08:43:12.712601  Et:2024-09-12 08:43:19.637331   Rt:6.924577082972974
+2024-09-12 08:43:19,637 - INFO -     Records Processed       :93972 docs
+2024-09-12 08:43:19,637 - INFO -     Process Rate            :13570.79 docs/s
+2024-09-12 08:43:19,639 - INFO - 
+2024-09-12 08:43:19,639 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:12.712099   Et:2024-09-12 08:43:19.639637   Rt:6.927381957997568
+2024-09-12 08:43:19,639 - INFO -   Hour Records Processed    :93972 docs
+2024-09-12 08:43:19,639 - INFO -   Hour Process Rate         :13565.3 docs/s
+2024-09-12 08:43:19,639 - INFO - 
+2024-09-12 08:43:19,639 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=19
+2024-09-12 08:43:19,640 - INFO - 
+2024-09-12 08:43:19,640 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=19/AsyncOut+0+1017364925.json.gz
+2024-09-12 08:43:25,464 - INFO -     Process Time,         St:2024-09-12 08:43:19.640349  Et:2024-09-12 08:43:25.464404   Rt:5.823924249969423
+2024-09-12 08:43:25,464 - INFO -     Records Processed       :74330 docs
+2024-09-12 08:43:25,464 - INFO -     Process Rate            :12762.87 docs/s
+2024-09-12 08:43:25,465 - INFO - 
+2024-09-12 08:43:25,465 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:19.639783   Et:2024-09-12 08:43:25.465201   Rt:5.8252847080584615
+2024-09-12 08:43:25,465 - INFO -   Hour Records Processed    :74330 docs
+2024-09-12 08:43:25,465 - INFO -   Hour Process Rate         :12759.89 docs/s
+2024-09-12 08:43:25,465 - INFO - 
+2024-09-12 08:43:25,465 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=20
+2024-09-12 08:43:25,465 - INFO - 
+2024-09-12 08:43:25,465 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=20/AsyncOut+0+1017439255.json.gz
+2024-09-12 08:43:35,151 - INFO -     Process Time,         St:2024-09-12 08:43:25.465490  Et:2024-09-12 08:43:35.151706   Rt:9.685997499967925
+2024-09-12 08:43:35,152 - INFO -     Records Processed       :99992 docs
+2024-09-12 08:43:35,152 - INFO -     Process Rate            :10323.36 docs/s
+2024-09-12 08:43:35,153 - INFO - 
+2024-09-12 08:43:35,153 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:25.465319   Et:2024-09-12 08:43:35.153834   Rt:9.688294708961621
+2024-09-12 08:43:35,153 - INFO -   Hour Records Processed    :99992 docs
+2024-09-12 08:43:35,153 - INFO -   Hour Process Rate         :10320.91 docs/s
+2024-09-12 08:43:35,153 - INFO - 
+2024-09-12 08:43:35,153 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=21
+2024-09-12 08:43:35,154 - INFO - 
+2024-09-12 08:43:35,154 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=21/AsyncOut+0+1017539247.json.gz
+2024-09-12 08:43:36,906 - INFO -     Process Time,         St:2024-09-12 08:43:35.154342  Et:2024-09-12 08:43:36.906952   Rt:1.7525740419514477
+2024-09-12 08:43:36,907 - INFO -     Records Processed       :24700 docs
+2024-09-12 08:43:36,907 - INFO -     Process Rate            :14093.56 docs/s
+2024-09-12 08:43:36,908 - INFO - 
+2024-09-12 08:43:36,908 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:35.153976   Et:2024-09-12 08:43:36.908468   Rt:1.754453666973859
+2024-09-12 08:43:36,908 - INFO -   Hour Records Processed    :24700 docs
+2024-09-12 08:43:36,908 - INFO -   Hour Process Rate         :14078.46 docs/s
+2024-09-12 08:43:36,908 - INFO - 
+2024-09-12 08:43:36,908 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=22
+2024-09-12 08:43:36,909 - INFO - 
+2024-09-12 08:43:36,909 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=22/AsyncOut+0+1017563947.json.gz
+2024-09-12 08:43:37,537 - INFO -     Process Time,         St:2024-09-12 08:43:36.909530  Et:2024-09-12 08:43:37.537096   Rt:0.6275554579915479
+2024-09-12 08:43:37,537 - INFO -     Records Processed       :7812 docs
+2024-09-12 08:43:37,537 - INFO -     Process Rate            :12448.3 docs/s
+2024-09-12 08:43:37,538 - INFO - 
+2024-09-12 08:43:37,538 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:36.908598   Et:2024-09-12 08:43:37.538753   Rt:0.6301412499742582
+2024-09-12 08:43:37,538 - INFO -   Hour Records Processed    :7812 docs
+2024-09-12 08:43:37,538 - INFO -   Hour Process Rate         :12397.22 docs/s
+2024-09-12 08:43:37,538 - INFO - 
+2024-09-12 08:43:37,538 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=23
+2024-09-12 08:43:37,539 - INFO - 
+2024-09-12 08:43:37,539 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=13/hour=23/AsyncOut+0+1017571759.json.gz
+2024-09-12 08:43:38,005 - INFO -     Process Time,         St:2024-09-12 08:43:37.539656  Et:2024-09-12 08:43:38.005785   Rt:0.4661227079341188
+2024-09-12 08:43:38,005 - INFO -     Records Processed       :6070 docs
+2024-09-12 08:43:38,005 - INFO -     Process Rate            :13022.32 docs/s
+2024-09-12 08:43:38,006 - INFO - 
+2024-09-12 08:43:38,006 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:37.538887   Et:2024-09-12 08:43:38.006132   Rt:0.4672347910236567
+2024-09-12 08:43:38,006 - INFO -   Hour Records Processed    :6070 docs
+2024-09-12 08:43:38,006 - INFO -   Hour Process Rate         :12991.33 docs/s
+2024-09-12 08:43:38,006 - INFO - 
+2024-09-12 08:43:38,006 - INFO -   Day Processing Time,    St:2024-09-12 08:30:48.499407   Et:2024-09-12 08:43:38.006242   Rt:769.4873734579887
+2024-09-12 08:43:38,006 - INFO -   Day Records Processed     :10187378 docs
+2024-09-12 08:43:38,006 - INFO -   Day Process Rate          :13239.18 docs/s
+2024-09-12 08:43:38,006 - INFO - 
+2024-09-12 08:43:38,006 - INFO -   Day Dir                   :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14
+2024-09-12 08:43:38,006 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=00
+2024-09-12 08:43:38,007 - INFO - 
+2024-09-12 08:43:38,007 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=00/AsyncOut+0+1017577829.json.gz
+2024-09-12 08:43:38,422 - INFO -     Process Time,         St:2024-09-12 08:43:38.007566  Et:2024-09-12 08:43:38.422532   Rt:0.4149620409589261
+2024-09-12 08:43:38,422 - INFO -     Records Processed       :5680 docs
+2024-09-12 08:43:38,422 - INFO -     Process Rate            :13688.0 docs/s
+2024-09-12 08:43:38,423 - INFO - 
+2024-09-12 08:43:38,423 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:38.006971   Et:2024-09-12 08:43:38.423833   Rt:0.41685262497048825
+2024-09-12 08:43:38,423 - INFO -   Hour Records Processed    :5680 docs
+2024-09-12 08:43:38,423 - INFO -   Hour Process Rate         :13625.92 docs/s
+2024-09-12 08:43:38,423 - INFO - 
+2024-09-12 08:43:38,423 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=01
+2024-09-12 08:43:38,424 - INFO - 
+2024-09-12 08:43:38,424 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=01/AsyncOut+0+1017583509.json.gz
+2024-09-12 08:43:40,059 - INFO -     Process Time,         St:2024-09-12 08:43:38.424457  Et:2024-09-12 08:43:40.059809   Rt:1.635318125016056
+2024-09-12 08:43:40,059 - INFO -     Records Processed       :22818 docs
+2024-09-12 08:43:40,059 - INFO -     Process Rate            :13953.25 docs/s
+2024-09-12 08:43:40,061 - INFO - 
+2024-09-12 08:43:40,061 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:38.423960   Et:2024-09-12 08:43:40.061364   Rt:1.6373710409970954
+2024-09-12 08:43:40,061 - INFO -   Hour Records Processed    :22818 docs
+2024-09-12 08:43:40,061 - INFO -   Hour Process Rate         :13935.75 docs/s
+2024-09-12 08:43:40,061 - INFO - 
+2024-09-12 08:43:40,061 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=02
+2024-09-12 08:43:40,061 - INFO - 
+2024-09-12 08:43:40,062 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=02/AsyncOut+0+1017606327.json.gz
+2024-09-12 08:43:42,215 - INFO -     Process Time,         St:2024-09-12 08:43:40.062053  Et:2024-09-12 08:43:42.215706   Rt:2.1536041669314727
+2024-09-12 08:43:42,216 - INFO -     Records Processed       :28104 docs
+2024-09-12 08:43:42,216 - INFO -     Process Rate            :13049.75 docs/s
+2024-09-12 08:43:42,216 - INFO - 
+2024-09-12 08:43:42,216 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:40.061493   Et:2024-09-12 08:43:42.216309   Rt:2.1547662920784205
+2024-09-12 08:43:42,216 - INFO -   Hour Records Processed    :28104 docs
+2024-09-12 08:43:42,216 - INFO -   Hour Process Rate         :13042.71 docs/s
+2024-09-12 08:43:42,216 - INFO - 
+2024-09-12 08:43:42,216 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=03
+2024-09-12 08:43:42,216 - INFO - 
+2024-09-12 08:43:42,216 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=03/AsyncOut+0+1017634431.json.gz
+2024-09-12 08:43:45,774 - INFO -     Process Time,         St:2024-09-12 08:43:42.216892  Et:2024-09-12 08:43:45.774349   Rt:3.5573804590385407
+2024-09-12 08:43:45,774 - INFO -     Records Processed       :46776 docs
+2024-09-12 08:43:45,774 - INFO -     Process Rate            :13149.0 docs/s
+2024-09-12 08:43:45,776 - INFO - 
+2024-09-12 08:43:45,776 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:42.216417   Et:2024-09-12 08:43:45.776011   Rt:3.5595146670239046
+2024-09-12 08:43:45,776 - INFO -   Hour Records Processed    :46776 docs
+2024-09-12 08:43:45,776 - INFO -   Hour Process Rate         :13141.12 docs/s
+2024-09-12 08:43:45,776 - INFO - 
+2024-09-12 08:43:45,776 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=04
+2024-09-12 08:43:45,776 - INFO - 
+2024-09-12 08:43:45,776 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=04/AsyncOut+0+1017681207.json.gz
+2024-09-12 08:43:50,771 - INFO -     Process Time,         St:2024-09-12 08:43:45.776494  Et:2024-09-12 08:43:50.771009   Rt:4.994402999989688
+2024-09-12 08:43:50,771 - INFO -     Records Processed       :69072 docs
+2024-09-12 08:43:50,771 - INFO -     Process Rate            :13829.88 docs/s
+2024-09-12 08:43:50,771 - INFO - 
+2024-09-12 08:43:50,771 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:45.776149   Et:2024-09-12 08:43:50.771319   Rt:4.995056082960218
+2024-09-12 08:43:50,771 - INFO -   Hour Records Processed    :69072 docs
+2024-09-12 08:43:50,771 - INFO -   Hour Process Rate         :13828.07 docs/s
+2024-09-12 08:43:50,771 - INFO - 
+2024-09-12 08:43:50,771 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=05
+2024-09-12 08:43:50,771 - INFO - 
+2024-09-12 08:43:50,771 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=05/AsyncOut+0+1017750279.json.gz
+2024-09-12 08:44:43,151 - INFO -     Process Time,         St:2024-09-12 08:43:50.771938  Et:2024-09-12 08:44:43.151873   Rt:52.37873795803171
+2024-09-12 08:44:43,152 - INFO -     Records Processed       :703318 docs
+2024-09-12 08:44:43,152 - INFO -     Process Rate            :13427.55 docs/s
+2024-09-12 08:44:43,153 - INFO - 
+2024-09-12 08:44:43,153 - INFO -   Hour Processing Time,  St :2024-09-12 08:43:50.771429   Et:2024-09-12 08:44:43.153000   Rt:52.38037145801354
+2024-09-12 08:44:43,153 - INFO -   Hour Records Processed    :703318 docs
+2024-09-12 08:44:43,153 - INFO -   Hour Process Rate         :13427.13 docs/s
+2024-09-12 08:44:43,153 - INFO - 
+2024-09-12 08:44:43,153 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=06
+2024-09-12 08:44:43,154 - INFO - 
+2024-09-12 08:44:43,154 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=06/AsyncOut+0+1018453597.json.gz
+2024-09-12 08:45:14,675 - INFO -     Process Time,         St:2024-09-12 08:44:43.154516  Et:2024-09-12 08:45:14.675266   Rt:31.520034416927956
+2024-09-12 08:45:14,675 - INFO -     Records Processed       :418624 docs
+2024-09-12 08:45:14,675 - INFO -     Process Rate            :13281.2 docs/s
+2024-09-12 08:45:14,676 - INFO - 
+2024-09-12 08:45:14,677 - INFO -   Hour Processing Time,  St :2024-09-12 08:44:43.153113   Et:2024-09-12 08:45:14.676973   Rt:31.5231393330032
+2024-09-12 08:45:14,677 - INFO -   Hour Records Processed    :418624 docs
+2024-09-12 08:45:14,677 - INFO -   Hour Process Rate         :13279.9 docs/s
+2024-09-12 08:45:14,677 - INFO - 
+2024-09-12 08:45:14,677 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=07
+2024-09-12 08:45:14,678 - INFO - 
+2024-09-12 08:45:14,678 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=07/AsyncOut+0+1018872221.json.gz
+2024-09-12 08:45:38,827 - INFO -     Process Time,         St:2024-09-12 08:45:14.678236  Et:2024-09-12 08:45:38.827872   Rt:24.14908770902548
+2024-09-12 08:45:38,828 - INFO -     Records Processed       :319771 docs
+2024-09-12 08:45:38,828 - INFO -     Process Rate            :13241.54 docs/s
+2024-09-12 08:45:38,829 - INFO - 
+2024-09-12 08:45:38,829 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=07/AsyncOut+0+1019191993.json.gz
+2024-09-12 08:45:38,830 - INFO -     Process Time,         St:2024-09-12 08:45:38.829785  Et:2024-09-12 08:45:38.830204   Rt:0.0004197079688310623
+2024-09-12 08:45:38,830 - INFO -     Records Processed       :1 docs
+2024-09-12 08:45:38,830 - INFO -     Process Rate            :2382.61 docs/s
+2024-09-12 08:45:38,830 - INFO - 
+2024-09-12 08:45:38,830 - INFO -   Hour Processing Time,  St :2024-09-12 08:45:14.677121   Et:2024-09-12 08:45:38.830329   Rt:24.152654125005938
+2024-09-12 08:45:38,830 - INFO -   Hour Records Processed    :319772 docs
+2024-09-12 08:45:38,830 - INFO -   Hour Process Rate         :13239.62 docs/s
+2024-09-12 08:45:38,830 - INFO - 
+2024-09-12 08:45:38,830 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=08
+2024-09-12 08:45:38,830 - INFO - 
+2024-09-12 08:45:38,830 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=08/AsyncOut+0+1019191992.json.gz
+2024-09-12 08:45:38,830 - INFO -     Process Time,         St:2024-09-12 08:45:38.830560  Et:2024-09-12 08:45:38.830808   Rt:0.0002488750033080578
+2024-09-12 08:45:38,830 - INFO -     Records Processed       :1 docs
+2024-09-12 08:45:38,830 - INFO -     Process Rate            :4018.08 docs/s
+2024-09-12 08:45:38,830 - INFO - 
+2024-09-12 08:45:38,830 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=08/AsyncOut+0+1019191994.json.gz
+2024-09-12 08:45:55,333 - INFO -     Process Time,         St:2024-09-12 08:45:38.830919  Et:2024-09-12 08:45:55.333293   Rt:16.50199820799753
+2024-09-12 08:45:55,333 - INFO -     Records Processed       :223994 docs
+2024-09-12 08:45:55,333 - INFO -     Process Rate            :13573.75 docs/s
+2024-09-12 08:45:55,335 - INFO - 
+2024-09-12 08:45:55,335 - INFO -   Hour Processing Time,  St :2024-09-12 08:45:38.830437   Et:2024-09-12 08:45:55.335014   Rt:16.50420041696634
+2024-09-12 08:45:55,335 - INFO -   Hour Records Processed    :223995 docs
+2024-09-12 08:45:55,335 - INFO -   Hour Process Rate         :13572.0 docs/s
+2024-09-12 08:45:55,335 - INFO - 
+2024-09-12 08:45:55,335 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=09
+2024-09-12 08:45:55,336 - INFO - 
+2024-09-12 08:45:55,336 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=09/AsyncOut+0+1019415988.json.gz
+2024-09-12 08:46:20,456 - INFO -     Process Time,         St:2024-09-12 08:45:55.336073  Et:2024-09-12 08:46:20.456618   Rt:25.119973332970403
+2024-09-12 08:46:20,456 - INFO -     Records Processed       :322889 docs
+2024-09-12 08:46:20,457 - INFO -     Process Rate            :12853.88 docs/s
+2024-09-12 08:46:20,458 - INFO - 
+2024-09-12 08:46:20,458 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=09/AsyncOut+0+1019738879.json.gz
+2024-09-12 08:46:20,459 - INFO -     Process Time,         St:2024-09-12 08:46:20.458911  Et:2024-09-12 08:46:20.459715   Rt:0.0008038750384002924
+2024-09-12 08:46:20,459 - INFO -     Records Processed       :2 docs
+2024-09-12 08:46:20,459 - INFO -     Process Rate            :2487.95 docs/s
+2024-09-12 08:46:20,459 - INFO - 
+2024-09-12 08:46:20,459 - INFO -   Hour Processing Time,  St :2024-09-12 08:45:55.335161   Et:2024-09-12 08:46:20.459839   Rt:25.124102625064552
+2024-09-12 08:46:20,459 - INFO -   Hour Records Processed    :322891 docs
+2024-09-12 08:46:20,459 - INFO -   Hour Process Rate         :12851.84 docs/s
+2024-09-12 08:46:20,459 - INFO - 
+2024-09-12 08:46:20,459 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=10
+2024-09-12 08:46:20,460 - INFO - 
+2024-09-12 08:46:20,460 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=10/AsyncOut+0+1019738877.json.gz
+2024-09-12 08:46:20,460 - INFO -     Process Time,         St:2024-09-12 08:46:20.460420  Et:2024-09-12 08:46:20.460882   Rt:0.00046250002924352884
+2024-09-12 08:46:20,460 - INFO -     Records Processed       :2 docs
+2024-09-12 08:46:20,460 - INFO -     Process Rate            :4324.32 docs/s
+2024-09-12 08:46:20,460 - INFO - 
+2024-09-12 08:46:20,460 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=10/AsyncOut+0+1019738881.json.gz
+2024-09-12 08:46:37,831 - INFO -     Process Time,         St:2024-09-12 08:46:20.461014  Et:2024-09-12 08:46:37.831951   Rt:17.370541041949764
+2024-09-12 08:46:37,832 - INFO -     Records Processed       :227222 docs
+2024-09-12 08:46:37,832 - INFO -     Process Rate            :13080.88 docs/s
+2024-09-12 08:46:37,832 - INFO - 
+2024-09-12 08:46:37,832 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=10/AsyncOut+0+1019966106.json.gz
+2024-09-12 08:46:37,833 - INFO -     Process Time,         St:2024-09-12 08:46:37.832754  Et:2024-09-12 08:46:37.833153   Rt:0.00039854203350842
+2024-09-12 08:46:37,833 - INFO -     Records Processed       :2 docs
+2024-09-12 08:46:37,833 - INFO -     Process Rate            :5018.29 docs/s
+2024-09-12 08:46:37,833 - INFO - 
+2024-09-12 08:46:37,833 - INFO -   Hour Processing Time,  St :2024-09-12 08:46:20.459952   Et:2024-09-12 08:46:37.833238   Rt:17.37288829195313
+2024-09-12 08:46:37,833 - INFO -   Hour Records Processed    :227226 docs
+2024-09-12 08:46:37,849 - INFO -   Hour Process Rate         :13079.35 docs/s
+2024-09-12 08:46:37,849 - INFO - 
+2024-09-12 08:46:37,849 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=11
+2024-09-12 08:46:37,849 - INFO - 
+2024-09-12 08:46:37,849 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=11/AsyncOut+0+1019966103.json.gz
+2024-09-12 08:46:37,849 - INFO -     Process Time,         St:2024-09-12 08:46:37.849435  Et:2024-09-12 08:46:37.849876   Rt:0.00044104200787842274
+2024-09-12 08:46:37,849 - INFO -     Records Processed       :3 docs
+2024-09-12 08:46:37,849 - INFO -     Process Rate            :6802.07 docs/s
+2024-09-12 08:46:37,849 - INFO - 
+2024-09-12 08:46:37,849 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=11/AsyncOut+0+1019966108.json.gz
+2024-09-12 08:47:22,016 - INFO -     Process Time,         St:2024-09-12 08:46:37.849999  Et:2024-09-12 08:47:22.016827   Rt:44.165820291033015
+2024-09-12 08:47:22,017 - INFO -     Records Processed       :571901 docs
+2024-09-12 08:47:22,017 - INFO -     Process Rate            :12948.95 docs/s
+2024-09-12 08:47:22,018 - INFO - 
+2024-09-12 08:47:22,019 - INFO -   Hour Processing Time,  St :2024-09-12 08:46:37.849090   Et:2024-09-12 08:47:22.018992   Rt:44.168892124900594
+2024-09-12 08:47:22,019 - INFO -   Hour Records Processed    :571904 docs
+2024-09-12 08:47:22,019 - INFO -   Hour Process Rate         :12948.12 docs/s
+2024-09-12 08:47:22,019 - INFO - 
+2024-09-12 08:47:22,019 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=12
+2024-09-12 08:47:22,019 - INFO - 
+2024-09-12 08:47:22,019 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=12/AsyncOut+0+1020538009.json.gz
+2024-09-12 08:48:04,060 - INFO -     Process Time,         St:2024-09-12 08:47:22.019900  Et:2024-09-12 08:48:04.060054   Rt:42.03919329191558
+2024-09-12 08:48:04,060 - INFO -     Records Processed       :553225 docs
+2024-09-12 08:48:04,060 - INFO -     Process Rate            :13159.74 docs/s
+2024-09-12 08:48:04,061 - INFO - 
+2024-09-12 08:48:04,061 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=12/AsyncOut+0+1021091235.json.gz
+2024-09-12 08:48:04,061 - INFO -     Process Time,         St:2024-09-12 08:48:04.061115  Et:2024-09-12 08:48:04.061844   Rt:0.0007286659674718976
+2024-09-12 08:48:04,061 - INFO -     Records Processed       :3 docs
+2024-09-12 08:48:04,061 - INFO -     Process Rate            :4117.11 docs/s
+2024-09-12 08:48:04,061 - INFO - 
+2024-09-12 08:48:04,061 - INFO -   Hour Processing Time,  St :2024-09-12 08:47:22.019132   Et:2024-09-12 08:48:04.061952   Rt:42.0418565410655
+2024-09-12 08:48:04,061 - INFO -   Hour Records Processed    :553228 docs
+2024-09-12 08:48:04,062 - INFO -   Hour Process Rate         :13158.98 docs/s
+2024-09-12 08:48:04,062 - INFO - 
+2024-09-12 08:48:04,062 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=13
+2024-09-12 08:48:04,062 - INFO - 
+2024-09-12 08:48:04,062 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=13/AsyncOut+0+1021091234.json.gz
+2024-09-12 08:48:04,062 - INFO -     Process Time,         St:2024-09-12 08:48:04.062542  Et:2024-09-12 08:48:04.062809   Rt:0.0002668750239536166
+2024-09-12 08:48:04,062 - INFO -     Records Processed       :1 docs
+2024-09-12 08:48:04,062 - INFO -     Process Rate            :3747.07 docs/s
+2024-09-12 08:48:04,062 - INFO - 
+2024-09-12 08:48:04,062 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=13/AsyncOut+0+1021091238.json.gz
+2024-09-12 08:48:25,497 - INFO -     Process Time,         St:2024-09-12 08:48:04.062919  Et:2024-09-12 08:48:25.497283   Rt:21.535214916919358
+2024-09-12 08:48:25,497 - INFO -     Records Processed       :290461 docs
+2024-09-12 08:48:25,497 - INFO -     Process Rate            :13487.72 docs/s
+2024-09-12 08:48:25,498 - INFO - 
+2024-09-12 08:48:25,498 - INFO -   Hour Processing Time,  St :2024-09-12 08:48:04.062054   Et:2024-09-12 08:48:25.498509   Rt:21.53730541607365
+2024-09-12 08:48:25,498 - INFO -   Hour Records Processed    :290462 docs
+2024-09-12 08:48:25,498 - INFO -   Hour Process Rate         :13486.46 docs/s
+2024-09-12 08:48:25,498 - INFO - 
+2024-09-12 08:48:25,498 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=14
+2024-09-12 08:48:25,499 - INFO - 
+2024-09-12 08:48:25,499 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=14/AsyncOut+0+1021381699.json.gz
+2024-09-12 08:49:43,882 - INFO -     Process Time,         St:2024-09-12 08:48:25.499179  Et:2024-09-12 08:49:43.882007   Rt:78.38226925011259
+2024-09-12 08:49:43,882 - INFO -     Records Processed       :1000000 docs
+2024-09-12 08:49:43,882 - INFO -     Process Rate            :12757.99 docs/s
+2024-09-12 08:49:43,882 - INFO - 
+2024-09-12 08:49:43,882 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=14/AsyncOut+0+1022381699.json.gz
+2024-09-12 08:50:38,703 - INFO -     Process Time,         St:2024-09-12 08:49:43.882594  Et:2024-09-12 08:50:38.703179   Rt:54.820185958989896
+2024-09-12 08:50:38,703 - INFO -     Records Processed       :699135 docs
+2024-09-12 08:50:38,703 - INFO -     Process Rate            :12753.24 docs/s
+2024-09-12 08:50:38,704 - INFO - 
+2024-09-12 08:50:38,704 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=14/AsyncOut+0+1023080838.json.gz
+2024-09-12 08:50:38,705 - INFO -     Process Time,         St:2024-09-12 08:50:38.704210  Et:2024-09-12 08:50:38.705973   Rt:0.001764583052136004
+2024-09-12 08:50:38,706 - INFO -     Records Processed       :13 docs
+2024-09-12 08:50:38,706 - INFO -     Process Rate            :7367.18 docs/s
+2024-09-12 08:50:38,706 - INFO - 
+2024-09-12 08:50:38,706 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=14/AsyncOut+0+1023080864.json.gz
+2024-09-12 08:50:38,706 - INFO -     Process Time,         St:2024-09-12 08:50:38.706155  Et:2024-09-12 08:50:38.706677   Rt:0.0005233340198174119
+2024-09-12 08:50:38,706 - INFO -     Records Processed       :5 docs
+2024-09-12 08:50:38,706 - INFO -     Process Rate            :9554.13 docs/s
+2024-09-12 08:50:38,706 - INFO - 
+2024-09-12 08:50:38,706 - INFO -   Hour Processing Time,  St :2024-09-12 08:48:25.498635   Et:2024-09-12 08:50:38.706886   Rt:133.20728783297818
+2024-09-12 08:50:38,706 - INFO -   Hour Records Processed    :1699153 docs
+2024-09-12 08:50:38,706 - INFO -   Hour Process Rate         :12755.71 docs/s
+2024-09-12 08:50:38,706 - INFO - 
+2024-09-12 08:50:38,707 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=15
+2024-09-12 08:50:38,707 - INFO - 
+2024-09-12 08:50:38,707 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=15/AsyncOut+0+1023080834.json.gz
+2024-09-12 08:50:38,708 - INFO -     Process Time,         St:2024-09-12 08:50:38.707649  Et:2024-09-12 08:50:38.708176   Rt:0.000527665950357914
+2024-09-12 08:50:38,708 - INFO -     Records Processed       :4 docs
+2024-09-12 08:50:38,708 - INFO -     Process Rate            :7580.55 docs/s
+2024-09-12 08:50:38,708 - INFO - 
+2024-09-12 08:50:38,708 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=15/AsyncOut+0+1023080851.json.gz
+2024-09-12 08:50:38,709 - INFO -     Process Time,         St:2024-09-12 08:50:38.708314  Et:2024-09-12 08:50:38.709077   Rt:0.0007630420150235295
+2024-09-12 08:50:38,709 - INFO -     Records Processed       :13 docs
+2024-09-12 08:50:38,709 - INFO -     Process Rate            :17037.07 docs/s
+2024-09-12 08:50:38,709 - INFO - 
+2024-09-12 08:50:38,709 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=15/AsyncOut+0+1023080869.json.gz
+2024-09-12 08:51:13,357 - INFO -     Process Time,         St:2024-09-12 08:50:38.709223  Et:2024-09-12 08:51:13.357818   Rt:34.64834566693753
+2024-09-12 08:51:13,358 - INFO -     Records Processed       :459760 docs
+2024-09-12 08:51:13,358 - INFO -     Process Rate            :13269.32 docs/s
+2024-09-12 08:51:13,359 - INFO - 
+2024-09-12 08:51:13,359 - INFO -   Hour Processing Time,  St :2024-09-12 08:50:38.707004   Et:2024-09-12 08:51:13.359647   Rt:34.652390707982704
+2024-09-12 08:51:13,359 - INFO -   Hour Records Processed    :459777 docs
+2024-09-12 08:51:13,359 - INFO -   Hour Process Rate         :13268.26 docs/s
+2024-09-12 08:51:13,359 - INFO - 
+2024-09-12 08:51:13,359 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=16
+2024-09-12 08:51:13,360 - INFO - 
+2024-09-12 08:51:13,360 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=16/AsyncOut+0+1023540629.json.gz
+2024-09-12 08:51:22,646 - INFO -     Process Time,         St:2024-09-12 08:51:13.360290  Et:2024-09-12 08:51:22.646008   Rt:9.285652582999319
+2024-09-12 08:51:22,646 - INFO -     Records Processed       :123546 docs
+2024-09-12 08:51:22,646 - INFO -     Process Rate            :13305.04 docs/s
+2024-09-12 08:51:22,647 - INFO - 
+2024-09-12 08:51:22,647 - INFO -   Hour Processing Time,  St :2024-09-12 08:51:13.359856   Et:2024-09-12 08:51:22.647282   Rt:9.28736045898404
+2024-09-12 08:51:22,647 - INFO -   Hour Records Processed    :123546 docs
+2024-09-12 08:51:22,647 - INFO -   Hour Process Rate         :13302.6 docs/s
+2024-09-12 08:51:22,647 - INFO - 
+2024-09-12 08:51:22,647 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=17
+2024-09-12 08:51:22,647 - INFO - 
+2024-09-12 08:51:22,647 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=17/AsyncOut+0+1023664175.json.gz
+2024-09-12 08:51:32,010 - INFO -     Process Time,         St:2024-09-12 08:51:22.648012  Et:2024-09-12 08:51:32.010654   Rt:9.362575083039701
+2024-09-12 08:51:32,011 - INFO -     Records Processed       :125114 docs
+2024-09-12 08:51:32,011 - INFO -     Process Rate            :13363.2 docs/s
+2024-09-12 08:51:32,011 - INFO - 
+2024-09-12 08:51:32,011 - INFO -   Hour Processing Time,  St :2024-09-12 08:51:22.647474   Et:2024-09-12 08:51:32.011350   Rt:9.363808166934177
+2024-09-12 08:51:32,011 - INFO -   Hour Records Processed    :125114 docs
+2024-09-12 08:51:32,011 - INFO -   Hour Process Rate         :13361.44 docs/s
+2024-09-12 08:51:32,011 - INFO - 
+2024-09-12 08:51:32,011 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=18
+2024-09-12 08:51:32,011 - INFO - 
+2024-09-12 08:51:32,012 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=18/AsyncOut+0+1023789289.json.gz
+2024-09-12 08:51:39,739 - INFO -     Process Time,         St:2024-09-12 08:51:32.012021  Et:2024-09-12 08:51:39.739930   Rt:7.727857124991715
+2024-09-12 08:51:39,740 - INFO -     Records Processed       :105980 docs
+2024-09-12 08:51:39,740 - INFO -     Process Rate            :13714.02 docs/s
+2024-09-12 08:51:39,742 - INFO - 
+2024-09-12 08:51:39,742 - INFO -   Hour Processing Time,  St :2024-09-12 08:51:32.011527   Et:2024-09-12 08:51:39.742194   Rt:7.730612457962707
+2024-09-12 08:51:39,742 - INFO -   Hour Records Processed    :105980 docs
+2024-09-12 08:51:39,742 - INFO -   Hour Process Rate         :13709.13 docs/s
+2024-09-12 08:51:39,742 - INFO - 
+2024-09-12 08:51:39,742 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=19
+2024-09-12 08:51:39,742 - INFO - 
+2024-09-12 08:51:39,742 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=19/AsyncOut+0+1023895269.json.gz
+2024-09-12 08:51:45,628 - INFO -     Process Time,         St:2024-09-12 08:51:39.742934  Et:2024-09-12 08:51:45.628559   Rt:5.885585832991637
+2024-09-12 08:51:45,628 - INFO -     Records Processed       :80662 docs
+2024-09-12 08:51:45,628 - INFO -     Process Rate            :13705.01 docs/s
+2024-09-12 08:51:45,630 - INFO - 
+2024-09-12 08:51:45,630 - INFO -   Hour Processing Time,  St :2024-09-12 08:51:39.742382   Et:2024-09-12 08:51:45.630242   Rt:5.8878192090196535
+2024-09-12 08:51:45,630 - INFO -   Hour Records Processed    :80662 docs
+2024-09-12 08:51:45,630 - INFO -   Hour Process Rate         :13699.81 docs/s
+2024-09-12 08:51:45,630 - INFO - 
+2024-09-12 08:51:45,630 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=20
+2024-09-12 08:51:45,630 - INFO - 
+2024-09-12 08:51:45,630 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=20/AsyncOut+0+1023975931.json.gz
+2024-09-12 08:51:49,733 - INFO -     Process Time,         St:2024-09-12 08:51:45.630571  Et:2024-09-12 08:51:49.733178   Rt:4.102581333019771
+2024-09-12 08:51:49,733 - INFO -     Records Processed       :55558 docs
+2024-09-12 08:51:49,733 - INFO -     Process Rate            :13542.21 docs/s
+2024-09-12 08:51:49,734 - INFO - 
+2024-09-12 08:51:49,734 - INFO -   Hour Processing Time,  St :2024-09-12 08:51:45.630400   Et:2024-09-12 08:51:49.734427   Rt:4.103999583050609
+2024-09-12 08:51:49,734 - INFO -   Hour Records Processed    :55558 docs
+2024-09-12 08:51:49,734 - INFO -   Hour Process Rate         :13537.53 docs/s
+2024-09-12 08:51:49,734 - INFO - 
+2024-09-12 08:51:49,734 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=21
+2024-09-12 08:51:49,734 - INFO - 
+2024-09-12 08:51:49,734 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=21/AsyncOut+0+1024031489.json.gz
+2024-09-12 08:52:01,062 - INFO -     Process Time,         St:2024-09-12 08:51:49.734787  Et:2024-09-12 08:52:01.062421   Rt:11.327554667019285
+2024-09-12 08:52:01,062 - INFO -     Records Processed       :132910 docs
+2024-09-12 08:52:01,062 - INFO -     Process Rate            :11733.34 docs/s
+2024-09-12 08:52:01,064 - INFO - 
+2024-09-12 08:52:01,064 - INFO -   Hour Processing Time,  St :2024-09-12 08:51:49.734605   Et:2024-09-12 08:52:01.064743   Rt:11.330056790960953
+2024-09-12 08:52:01,064 - INFO -   Hour Records Processed    :132910 docs
+2024-09-12 08:52:01,064 - INFO -   Hour Process Rate         :11730.74 docs/s
+2024-09-12 08:52:01,064 - INFO - 
+2024-09-12 08:52:01,064 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=22
+2024-09-12 08:52:01,065 - INFO - 
+2024-09-12 08:52:01,065 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=22/AsyncOut+0+1024164399.json.gz
+2024-09-12 08:52:02,310 - INFO -     Process Time,         St:2024-09-12 08:52:01.065457  Et:2024-09-12 08:52:02.310106   Rt:1.2446442910004407
+2024-09-12 08:52:02,310 - INFO -     Records Processed       :13858 docs
+2024-09-12 08:52:02,310 - INFO -     Process Rate            :11134.1 docs/s
+2024-09-12 08:52:02,311 - INFO - 
+2024-09-12 08:52:02,312 - INFO -   Hour Processing Time,  St :2024-09-12 08:52:01.064897   Et:2024-09-12 08:52:02.311947   Rt:1.2470418330049142
+2024-09-12 08:52:02,312 - INFO -   Hour Records Processed    :13858 docs
+2024-09-12 08:52:02,312 - INFO -   Hour Process Rate         :11112.7 docs/s
+2024-09-12 08:52:02,312 - INFO - 
+2024-09-12 08:52:02,312 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=23
+2024-09-12 08:52:02,312 - INFO - 
+2024-09-12 08:52:02,312 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=14/hour=23/AsyncOut+0+1024178257.json.gz
+2024-09-12 08:52:04,348 - INFO -     Process Time,         St:2024-09-12 08:52:02.312632  Et:2024-09-12 08:52:04.348363   Rt:2.035718916915357
+2024-09-12 08:52:04,348 - INFO -     Records Processed       :26618 docs
+2024-09-12 08:52:04,348 - INFO -     Process Rate            :13075.48 docs/s
+2024-09-12 08:52:04,349 - INFO - 
+2024-09-12 08:52:04,349 - INFO -   Hour Processing Time,  St :2024-09-12 08:52:02.312083   Et:2024-09-12 08:52:04.349519   Rt:2.0374220829689875
+2024-09-12 08:52:04,349 - INFO -   Hour Records Processed    :26618 docs
+2024-09-12 08:52:04,349 - INFO -   Hour Process Rate         :13064.55 docs/s
+2024-09-12 08:52:04,349 - INFO - 
+2024-09-12 08:52:04,349 - INFO -   Day Processing Time,    St:2024-09-12 08:43:38.006326   Et:2024-09-12 08:52:04.349652   Rt:506.43648612499237
+2024-09-12 08:52:04,349 - INFO -   Day Records Processed     :6627046 docs
+2024-09-12 08:52:04,349 - INFO -   Day Process Rate          :13085.64 docs/s
+2024-09-12 08:52:04,349 - INFO - 
+2024-09-12 08:52:04,349 - INFO -   Day Dir                   :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15
+2024-09-12 08:52:04,350 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=00
+2024-09-12 08:52:04,351 - INFO - 
+2024-09-12 08:52:04,351 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=00/AsyncOut+0+1024204875.json.gz
+2024-09-12 08:52:06,137 - INFO -     Process Time,         St:2024-09-12 08:52:04.351133  Et:2024-09-12 08:52:06.137132   Rt:1.7859890420222655
+2024-09-12 08:52:06,137 - INFO -     Records Processed       :23568 docs
+2024-09-12 08:52:06,137 - INFO -     Process Rate            :13196.05 docs/s
+2024-09-12 08:52:06,138 - INFO - 
+2024-09-12 08:52:06,138 - INFO -   Hour Processing Time,  St :2024-09-12 08:52:04.350689   Et:2024-09-12 08:52:06.138249   Rt:1.7875479169888422
+2024-09-12 08:52:06,138 - INFO -   Hour Records Processed    :23568 docs
+2024-09-12 08:52:06,138 - INFO -   Hour Process Rate         :13184.54 docs/s
+2024-09-12 08:52:06,138 - INFO - 
+2024-09-12 08:52:06,138 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=01
+2024-09-12 08:52:06,139 - INFO - 
+2024-09-12 08:52:06,139 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=01/AsyncOut+0+1024228443.json.gz
+2024-09-12 08:52:09,508 - INFO -     Process Time,         St:2024-09-12 08:52:06.139119  Et:2024-09-12 08:52:09.508908   Rt:3.3697686669183895
+2024-09-12 08:52:09,509 - INFO -     Records Processed       :42198 docs
+2024-09-12 08:52:09,509 - INFO -     Process Rate            :12522.52 docs/s
+2024-09-12 08:52:09,509 - INFO - 
+2024-09-12 08:52:09,509 - INFO -   Hour Processing Time,  St :2024-09-12 08:52:06.138378   Et:2024-09-12 08:52:09.509422   Rt:3.371019707992673
+2024-09-12 08:52:09,509 - INFO -   Hour Records Processed    :42198 docs
+2024-09-12 08:52:09,509 - INFO -   Hour Process Rate         :12517.87 docs/s
+2024-09-12 08:52:09,509 - INFO - 
+2024-09-12 08:52:09,509 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=02
+2024-09-12 08:52:09,510 - INFO - 
+2024-09-12 08:52:09,510 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=02/AsyncOut+0+1024270641.json.gz
+2024-09-12 08:52:13,868 - INFO -     Process Time,         St:2024-09-12 08:52:09.510073  Et:2024-09-12 08:52:13.868427   Rt:4.358326624962501
+2024-09-12 08:52:13,868 - INFO -     Records Processed       :55136 docs
+2024-09-12 08:52:13,868 - INFO -     Process Rate            :12650.73 docs/s
+2024-09-12 08:52:13,869 - INFO - 
+2024-09-12 08:52:13,869 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=02/AsyncOut+0+1024325779.json.gz
+2024-09-12 08:52:13,869 - INFO -     Process Time,         St:2024-09-12 08:52:13.869199  Et:2024-09-12 08:52:13.869755   Rt:0.0005561249563470483
+2024-09-12 08:52:13,869 - INFO -     Records Processed       :2 docs
+2024-09-12 08:52:13,869 - INFO -     Process Rate            :3596.31 docs/s
+2024-09-12 08:52:13,869 - INFO - 
+2024-09-12 08:52:13,869 - INFO -   Hour Processing Time,  St :2024-09-12 08:52:09.509542   Et:2024-09-12 08:52:13.869882   Rt:4.360308750066906
+2024-09-12 08:52:13,869 - INFO -   Hour Records Processed    :55138 docs
+2024-09-12 08:52:13,869 - INFO -   Hour Process Rate         :12645.43 docs/s
+2024-09-12 08:52:13,869 - INFO - 
+2024-09-12 08:52:13,869 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=03
+2024-09-12 08:52:13,870 - INFO - 
+2024-09-12 08:52:13,870 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=03/AsyncOut+0+1024325777.json.gz
+2024-09-12 08:52:13,870 - INFO -     Process Time,         St:2024-09-12 08:52:13.870535  Et:2024-09-12 08:52:13.870917   Rt:0.00038308301009237766
+2024-09-12 08:52:13,870 - INFO -     Records Processed       :2 docs
+2024-09-12 08:52:13,871 - INFO -     Process Rate            :5220.8 docs/s
+2024-09-12 08:52:13,871 - INFO - 
+2024-09-12 08:52:13,871 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=03/AsyncOut+0+1024325781.json.gz
+2024-09-12 08:52:21,131 - INFO -     Process Time,         St:2024-09-12 08:52:13.871104  Et:2024-09-12 08:52:21.131406   Rt:7.260251207975671
+2024-09-12 08:52:21,131 - INFO -     Records Processed       :95096 docs
+2024-09-12 08:52:21,131 - INFO -     Process Rate            :13098.17 docs/s
+2024-09-12 08:52:21,132 - INFO - 
+2024-09-12 08:52:21,132 - INFO -   Hour Processing Time,  St :2024-09-12 08:52:13.869984   Et:2024-09-12 08:52:21.132013   Rt:7.2619757920037955
+2024-09-12 08:52:21,132 - INFO -   Hour Records Processed    :95098 docs
+2024-09-12 08:52:21,132 - INFO -   Hour Process Rate         :13095.33 docs/s
+2024-09-12 08:52:21,132 - INFO - 
+2024-09-12 08:52:21,132 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=04
+2024-09-12 08:52:21,132 - INFO - 
+2024-09-12 08:52:21,132 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=04/AsyncOut+0+1024420877.json.gz
+2024-09-12 08:52:37,639 - INFO -     Process Time,         St:2024-09-12 08:52:21.132609  Et:2024-09-12 08:52:37.639690   Rt:16.506963917054236
+2024-09-12 08:52:37,640 - INFO -     Records Processed       :217844 docs
+2024-09-12 08:52:37,640 - INFO -     Process Rate            :13197.1 docs/s
+2024-09-12 08:52:37,642 - INFO - 
+2024-09-12 08:52:37,642 - INFO -   Hour Processing Time,  St :2024-09-12 08:52:21.132133   Et:2024-09-12 08:52:37.642362   Rt:16.510111875017174
+2024-09-12 08:52:37,642 - INFO -   Hour Records Processed    :217844 docs
+2024-09-12 08:52:37,642 - INFO -   Hour Process Rate         :13194.58 docs/s
+2024-09-12 08:52:37,642 - INFO - 
+2024-09-12 08:52:37,642 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=05
+2024-09-12 08:52:37,643 - INFO - 
+2024-09-12 08:52:37,644 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=05/AsyncOut+0+1024638721.json.gz
+2024-09-12 08:53:52,958 - INFO -     Process Time,         St:2024-09-12 08:52:37.644274  Et:2024-09-12 08:53:52.958043   Rt:75.31320387497544
+2024-09-12 08:53:52,958 - INFO -     Records Processed       :1000000 docs
+2024-09-12 08:53:52,958 - INFO -     Process Rate            :13277.88 docs/s
+2024-09-12 08:53:52,958 - INFO - 
+2024-09-12 08:53:52,958 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=05/AsyncOut+0+1025638721.json.gz
+2024-09-12 08:54:36,051 - INFO -     Process Time,         St:2024-09-12 08:53:52.958641  Et:2024-09-12 08:54:36.051253   Rt:43.0922972089611
+2024-09-12 08:54:36,051 - INFO -     Records Processed       :565036 docs
+2024-09-12 08:54:36,051 - INFO -     Process Rate            :13112.23 docs/s
+2024-09-12 08:54:36,051 - INFO - 
+2024-09-12 08:54:36,051 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=05/AsyncOut+0+1026203760.json.gz
+2024-09-12 08:54:36,052 - INFO -     Process Time,         St:2024-09-12 08:54:36.051950  Et:2024-09-12 08:54:36.052403   Rt:0.00045254197902977467
+2024-09-12 08:54:36,052 - INFO -     Records Processed       :2 docs
+2024-09-12 08:54:36,052 - INFO -     Process Rate            :4419.48 docs/s
+2024-09-12 08:54:36,052 - INFO - 
+2024-09-12 08:54:36,052 - INFO -   Hour Processing Time,  St :2024-09-12 08:52:37.642641   Et:2024-09-12 08:54:36.052499   Rt:118.40898758301046
+2024-09-12 08:54:36,052 - INFO -   Hour Records Processed    :1565038 docs
+2024-09-12 08:54:36,052 - INFO -   Hour Process Rate         :13217.22 docs/s
+2024-09-12 08:54:36,052 - INFO - 
+2024-09-12 08:54:36,052 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=06
+2024-09-12 08:54:36,052 - INFO - 
+2024-09-12 08:54:36,052 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=06/AsyncOut+0+1026203757.json.gz
+2024-09-12 08:54:36,053 - INFO -     Process Time,         St:2024-09-12 08:54:36.052994  Et:2024-09-12 08:54:36.053324   Rt:0.00033062510192394257
+2024-09-12 08:54:36,053 - INFO -     Records Processed       :3 docs
+2024-09-12 08:54:36,053 - INFO -     Process Rate            :9073.72 docs/s
+2024-09-12 08:54:36,053 - INFO - 
+2024-09-12 08:54:36,053 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=06/AsyncOut+0+1026203762.json.gz
+2024-09-12 08:55:42,502 - INFO -     Process Time,         St:2024-09-12 08:54:36.053441  Et:2024-09-12 08:55:42.502237   Rt:66.44831041700672
+2024-09-12 08:55:42,502 - INFO -     Records Processed       :915370 docs
+2024-09-12 08:55:42,502 - INFO -     Process Rate            :13775.67 docs/s
+2024-09-12 08:55:42,503 - INFO - 
+2024-09-12 08:55:42,503 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=06/AsyncOut+0+1027119135.json.gz
+2024-09-12 08:55:42,505 - INFO -     Process Time,         St:2024-09-12 08:55:42.503607  Et:2024-09-12 08:55:42.505132   Rt:0.001524624996818602
+2024-09-12 08:55:42,505 - INFO -     Records Processed       :3 docs
+2024-09-12 08:55:42,505 - INFO -     Process Rate            :1967.7 docs/s
+2024-09-12 08:55:42,505 - INFO - 
+2024-09-12 08:55:42,505 - INFO -   Hour Processing Time,  St :2024-09-12 08:54:36.052595   Et:2024-09-12 08:55:42.505231   Rt:66.4521479170071
+2024-09-12 08:55:42,505 - INFO -   Hour Records Processed    :915376 docs
+2024-09-12 08:55:42,505 - INFO -   Hour Process Rate         :13774.96 docs/s
+2024-09-12 08:55:42,505 - INFO - 
+2024-09-12 08:55:42,505 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=07
+2024-09-12 08:55:42,506 - INFO - 
+2024-09-12 08:55:42,506 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=07/AsyncOut+0+1027119132.json.gz
+2024-09-12 08:55:42,506 - INFO -     Process Time,         St:2024-09-12 08:55:42.506240  Et:2024-09-12 08:55:42.506558   Rt:0.0003189169801771641
+2024-09-12 08:55:42,506 - INFO -     Records Processed       :3 docs
+2024-09-12 08:55:42,506 - INFO -     Process Rate            :9406.84 docs/s
+2024-09-12 08:55:42,506 - INFO - 
+2024-09-12 08:55:42,506 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=07/AsyncOut+0+1027119138.json.gz
+2024-09-12 08:56:01,918 - INFO -     Process Time,         St:2024-09-12 08:55:42.506682  Et:2024-09-12 08:56:01.918136   Rt:19.41131633403711
+2024-09-12 08:56:01,918 - INFO -     Records Processed       :270677 docs
+2024-09-12 08:56:01,918 - INFO -     Process Rate            :13944.29 docs/s
+2024-09-12 08:56:01,920 - INFO - 
+2024-09-12 08:56:01,920 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=07/AsyncOut+0+1027389818.json.gz
+2024-09-12 08:56:01,920 - INFO -     Process Time,         St:2024-09-12 08:56:01.920175  Et:2024-09-12 08:56:01.920713   Rt:0.0005379170179367065
+2024-09-12 08:56:01,920 - INFO -     Records Processed       :4 docs
+2024-09-12 08:56:01,920 - INFO -     Process Rate            :7436.09 docs/s
+2024-09-12 08:56:01,920 - INFO - 
+2024-09-12 08:56:01,920 - INFO -   Hour Processing Time,  St :2024-09-12 08:55:42.505400   Et:2024-09-12 08:56:01.920833   Rt:19.415290417033248
+2024-09-12 08:56:01,920 - INFO -   Hour Records Processed    :270684 docs
+2024-09-12 08:56:01,920 - INFO -   Hour Process Rate         :13941.8 docs/s
+2024-09-12 08:56:01,920 - INFO - 
+2024-09-12 08:56:01,920 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=08
+2024-09-12 08:56:01,924 - INFO - 
+2024-09-12 08:56:01,924 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=08/AsyncOut+0+1027389815.json.gz
+2024-09-12 08:56:01,924 - INFO -     Process Time,         St:2024-09-12 08:56:01.924213  Et:2024-09-12 08:56:01.924698   Rt:0.0004866659874096513
+2024-09-12 08:56:01,924 - INFO -     Records Processed       :3 docs
+2024-09-12 08:56:01,924 - INFO -     Process Rate            :6164.39 docs/s
+2024-09-12 08:56:01,924 - INFO - 
+2024-09-12 08:56:01,924 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=08/AsyncOut+0+1027389822.json.gz
+2024-09-12 08:56:24,413 - INFO -     Process Time,         St:2024-09-12 08:56:01.924864  Et:2024-09-12 08:56:24.413289   Rt:22.488261457998306
+2024-09-12 08:56:24,413 - INFO -     Records Processed       :317168 docs
+2024-09-12 08:56:24,413 - INFO -     Process Rate            :14103.71 docs/s
+2024-09-12 08:56:24,414 - INFO - 
+2024-09-12 08:56:24,414 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=08/AsyncOut+0+1027706991.json.gz
+2024-09-12 08:56:24,414 - INFO -     Process Time,         St:2024-09-12 08:56:24.414158  Et:2024-09-12 08:56:24.414858   Rt:0.00070116703864187
+2024-09-12 08:56:24,414 - INFO -     Records Processed       :1 docs
+2024-09-12 08:56:24,414 - INFO -     Process Rate            :1426.19 docs/s
+2024-09-12 08:56:24,414 - INFO - 
+2024-09-12 08:56:24,415 - INFO -   Hour Processing Time,  St :2024-09-12 08:56:01.920958   Et:2024-09-12 08:56:24.414993   Rt:22.49387033295352
+2024-09-12 08:56:24,415 - INFO -   Hour Records Processed    :317172 docs
+2024-09-12 08:56:24,415 - INFO -   Hour Process Rate         :14100.37 docs/s
+2024-09-12 08:56:24,415 - INFO - 
+2024-09-12 08:56:24,415 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=09
+2024-09-12 08:56:24,415 - INFO - 
+2024-09-12 08:56:24,415 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=09/AsyncOut+0+1027706990.json.gz
+2024-09-12 08:56:24,420 - INFO -     Process Time,         St:2024-09-12 08:56:24.419540  Et:2024-09-12 08:56:24.420002   Rt:0.0004627089947462082
+2024-09-12 08:56:24,420 - INFO -     Records Processed       :1 docs
+2024-09-12 08:56:24,420 - INFO -     Process Rate            :2161.19 docs/s
+2024-09-12 08:56:24,420 - INFO - 
+2024-09-12 08:56:24,420 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=09/AsyncOut+0+1027706992.json.gz
+2024-09-12 08:57:10,446 - INFO -     Process Time,         St:2024-09-12 08:56:24.420132  Et:2024-09-12 08:57:10.446184   Rt:46.02571979200002
+2024-09-12 08:57:10,446 - INFO -     Records Processed       :639385 docs
+2024-09-12 08:57:10,446 - INFO -     Process Rate            :13891.91 docs/s
+2024-09-12 08:57:10,447 - INFO - 
+2024-09-12 08:57:10,447 - INFO -   Hour Processing Time,  St :2024-09-12 08:56:24.415103   Et:2024-09-12 08:57:10.447635   Rt:46.032194625004195
+2024-09-12 08:57:10,447 - INFO -   Hour Records Processed    :639386 docs
+2024-09-12 08:57:10,447 - INFO -   Hour Process Rate         :13889.97 docs/s
+2024-09-12 08:57:10,447 - INFO - 
+2024-09-12 08:57:10,447 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=10
+2024-09-12 08:57:10,449 - INFO - 
+2024-09-12 08:57:10,449 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=10/AsyncOut+0+1028346377.json.gz
+2024-09-12 08:57:36,893 - INFO -     Process Time,         St:2024-09-12 08:57:10.449218  Et:2024-09-12 08:57:36.893691   Rt:26.44428329099901
+2024-09-12 08:57:36,894 - INFO -     Records Processed       :351895 docs
+2024-09-12 08:57:36,894 - INFO -     Process Rate            :13307.03 docs/s
+2024-09-12 08:57:36,895 - INFO - 
+2024-09-12 08:57:36,895 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=10/AsyncOut+0+1028698283.json.gz
+2024-09-12 08:57:36,899 - INFO -     Process Time,         St:2024-09-12 08:57:36.895791  Et:2024-09-12 08:57:36.899044   Rt:0.0032543750712648034
+2024-09-12 08:57:36,899 - INFO -     Records Processed       :83 docs
+2024-09-12 08:57:36,899 - INFO -     Process Rate            :25504.13 docs/s
+2024-09-12 08:57:36,899 - INFO - 
+2024-09-12 08:57:36,899 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=10/AsyncOut+0+1028698424.json.gz
+2024-09-12 08:57:36,900 - INFO -     Process Time,         St:2024-09-12 08:57:36.899318  Et:2024-09-12 08:57:36.900350   Rt:0.0010323339374735951
+2024-09-12 08:57:36,900 - INFO -     Records Processed       :25 docs
+2024-09-12 08:57:36,900 - INFO -     Process Rate            :24216.97 docs/s
+2024-09-12 08:57:36,900 - INFO - 
+2024-09-12 08:57:36,900 - INFO -   Hour Processing Time,  St :2024-09-12 08:57:10.447796   Et:2024-09-12 08:57:36.900468   Rt:26.45247800007928
+2024-09-12 08:57:36,900 - INFO -   Hour Records Processed    :352003 docs
+2024-09-12 08:57:36,900 - INFO -   Hour Process Rate         :13307.0 docs/s
+2024-09-12 08:57:36,900 - INFO - 
+2024-09-12 08:57:36,900 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=11
+2024-09-12 08:57:36,901 - INFO - 
+2024-09-12 08:57:36,901 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=11/AsyncOut+0+1028698272.json.gz
+2024-09-12 08:57:36,901 - INFO -     Process Time,         St:2024-09-12 08:57:36.901076  Et:2024-09-12 08:57:36.901622   Rt:0.0005456670187413692
+2024-09-12 08:57:36,901 - INFO -     Records Processed       :11 docs
+2024-09-12 08:57:36,901 - INFO -     Process Rate            :20158.81 docs/s
+2024-09-12 08:57:36,901 - INFO - 
+2024-09-12 08:57:36,901 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=11/AsyncOut+0+1028698366.json.gz
+2024-09-12 08:57:36,904 - INFO -     Process Time,         St:2024-09-12 08:57:36.901747  Et:2024-09-12 08:57:36.904095   Rt:0.002348375041037798
+2024-09-12 08:57:36,904 - INFO -     Records Processed       :58 docs
+2024-09-12 08:57:36,904 - INFO -     Process Rate            :24697.93 docs/s
+2024-09-12 08:57:36,904 - INFO - 
+2024-09-12 08:57:36,904 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=11/AsyncOut+0+1028698449.json.gz
+2024-09-12 08:58:49,412 - INFO -     Process Time,         St:2024-09-12 08:57:36.904296  Et:2024-09-12 08:58:49.412872   Rt:72.50804416602477
+2024-09-12 08:58:49,413 - INFO -     Records Processed       :1000000 docs
+2024-09-12 08:58:49,413 - INFO -     Process Rate            :13791.57 docs/s
+2024-09-12 08:58:49,413 - INFO - 
+2024-09-12 08:58:49,413 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=11/AsyncOut+0+1029698449.json.gz
+2024-09-12 08:59:14,191 - INFO -     Process Time,         St:2024-09-12 08:58:49.413637  Et:2024-09-12 08:59:14.191262   Rt:24.77744574996177
+2024-09-12 08:59:14,191 - INFO -     Records Processed       :343873 docs
+2024-09-12 08:59:14,191 - INFO -     Process Rate            :13878.47 docs/s
+2024-09-12 08:59:14,193 - INFO - 
+2024-09-12 08:59:14,193 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=11/AsyncOut+0+1030042324.json.gz
+2024-09-12 08:59:14,194 - INFO -     Process Time,         St:2024-09-12 08:59:14.193467  Et:2024-09-12 08:59:14.193997   Rt:0.0005297500174492598
+2024-09-12 08:59:14,194 - INFO -     Records Processed       :3 docs
+2024-09-12 08:59:14,194 - INFO -     Process Rate            :5663.05 docs/s
+2024-09-12 08:59:14,194 - INFO - 
+2024-09-12 08:59:14,194 - INFO -   Hour Processing Time,  St :2024-09-12 08:57:36.900565   Et:2024-09-12 08:59:14.194097   Rt:97.29281629202887
+2024-09-12 08:59:14,194 - INFO -   Hour Records Processed    :1343945 docs
+2024-09-12 08:59:14,194 - INFO -   Hour Process Rate         :13813.4 docs/s
+2024-09-12 08:59:14,194 - INFO - 
+2024-09-12 08:59:14,194 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=12
+2024-09-12 08:59:14,194 - INFO - 
+2024-09-12 08:59:14,194 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=12/AsyncOut+0+1030042322.json.gz
+2024-09-12 08:59:14,195 - INFO -     Process Time,         St:2024-09-12 08:59:14.194990  Et:2024-09-12 08:59:14.195458   Rt:0.00046758295502513647
+2024-09-12 08:59:14,195 - INFO -     Records Processed       :2 docs
+2024-09-12 08:59:14,195 - INFO -     Process Rate            :4277.32 docs/s
+2024-09-12 08:59:14,195 - INFO - 
+2024-09-12 08:59:14,195 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=12/AsyncOut+0+1030042327.json.gz
+2024-09-12 09:00:20,053 - INFO -     Process Time,         St:2024-09-12 08:59:14.195592  Et:2024-09-12 09:00:20.053050   Rt:65.85697833402082
+2024-09-12 09:00:20,053 - INFO -     Records Processed       :900154 docs
+2024-09-12 09:00:20,053 - INFO -     Process Rate            :13668.32 docs/s
+2024-09-12 09:00:20,053 - INFO - 
+2024-09-12 09:00:20,053 - INFO -   Hour Processing Time,  St :2024-09-12 08:59:14.194192   Et:2024-09-12 09:00:20.053826   Rt:65.85915145801846
+2024-09-12 09:00:20,053 - INFO -   Hour Records Processed    :900156 docs
+2024-09-12 09:00:20,053 - INFO -   Hour Process Rate         :13667.9 docs/s
+2024-09-12 09:00:20,053 - INFO - 
+2024-09-12 09:00:20,054 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=13
+2024-09-12 09:00:20,054 - INFO - 
+2024-09-12 09:00:20,054 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=13/AsyncOut+0+1030942481.json.gz
+2024-09-12 09:01:32,783 - INFO -     Process Time,         St:2024-09-12 09:00:20.054880  Et:2024-09-12 09:01:32.783097   Rt:72.72768470796291
+2024-09-12 09:01:32,783 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:01:32,783 - INFO -     Process Rate            :13749.92 docs/s
+2024-09-12 09:01:32,783 - INFO - 
+2024-09-12 09:01:32,783 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=13/AsyncOut+0+1031942481.json.gz
+2024-09-12 09:01:44,641 - INFO -     Process Time,         St:2024-09-12 09:01:32.783822  Et:2024-09-12 09:01:44.641227   Rt:11.857321834075265
+2024-09-12 09:01:44,641 - INFO -     Records Processed       :159563 docs
+2024-09-12 09:01:44,641 - INFO -     Process Rate            :13456.92 docs/s
+2024-09-12 09:01:44,642 - INFO - 
+2024-09-12 09:01:44,642 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=13/AsyncOut+0+1032102047.json.gz
+2024-09-12 09:01:44,643 - INFO -     Process Time,         St:2024-09-12 09:01:44.642670  Et:2024-09-12 09:01:44.643227   Rt:0.0005578749114647508
+2024-09-12 09:01:44,643 - INFO -     Records Processed       :1 docs
+2024-09-12 09:01:44,643 - INFO -     Process Rate            :1792.52 docs/s
+2024-09-12 09:01:44,643 - INFO - 
+2024-09-12 09:01:44,643 - INFO -   Hour Processing Time,  St :2024-09-12 09:00:20.054025   Et:2024-09-12 09:01:44.643320   Rt:84.58867291605566
+2024-09-12 09:01:44,643 - INFO -   Hour Records Processed    :1159564 docs
+2024-09-12 09:01:44,643 - INFO -   Hour Process Rate         :13708.27 docs/s
+2024-09-12 09:01:44,643 - INFO - 
+2024-09-12 09:01:44,643 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=14
+2024-09-12 09:01:44,643 - INFO - 
+2024-09-12 09:01:44,643 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=14/AsyncOut+0+1032102044.json.gz
+2024-09-12 09:01:44,644 - INFO -     Process Time,         St:2024-09-12 09:01:44.643994  Et:2024-09-12 09:01:44.644642   Rt:0.0006486250786110759
+2024-09-12 09:01:44,644 - INFO -     Records Processed       :3 docs
+2024-09-12 09:01:44,644 - INFO -     Process Rate            :4625.17 docs/s
+2024-09-12 09:01:44,644 - INFO - 
+2024-09-12 09:01:44,644 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=14/AsyncOut+0+1032102048.json.gz
+2024-09-12 09:02:59,030 - INFO -     Process Time,         St:2024-09-12 09:01:44.644779  Et:2024-09-12 09:02:59.030022   Rt:74.38470195909031
+2024-09-12 09:02:59,030 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:02:59,030 - INFO -     Process Rate            :13443.62 docs/s
+2024-09-12 09:02:59,030 - INFO - 
+2024-09-12 09:02:59,030 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=14/AsyncOut+0+1033102048.json.gz
+2024-09-12 09:04:16,026 - INFO -     Process Time,         St:2024-09-12 09:02:59.031060  Et:2024-09-12 09:04:16.026417   Rt:76.9674384589307
+2024-09-12 09:04:16,026 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:04:16,026 - INFO -     Process Rate            :12992.51 docs/s
+2024-09-12 09:04:16,027 - INFO - 
+2024-09-12 09:04:16,027 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=14/AsyncOut+0+1034102048.json.gz
+2024-09-12 09:04:23,634 - INFO -     Process Time,         St:2024-09-12 09:04:16.027064  Et:2024-09-12 09:04:23.634414   Rt:7.606986499973573
+2024-09-12 09:04:23,634 - INFO -     Records Processed       :101696 docs
+2024-09-12 09:04:23,634 - INFO -     Process Rate            :13368.76 docs/s
+2024-09-12 09:04:23,636 - INFO - 
+2024-09-12 09:04:23,636 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=14/AsyncOut+0+1034203793.json.gz
+2024-09-12 09:04:23,637 - INFO -     Process Time,         St:2024-09-12 09:04:23.636074  Et:2024-09-12 09:04:23.637047   Rt:0.0009738339576870203
+2024-09-12 09:04:23,637 - INFO -     Records Processed       :11 docs
+2024-09-12 09:04:23,637 - INFO -     Process Rate            :11295.56 docs/s
+2024-09-12 09:04:23,637 - INFO - 
+2024-09-12 09:04:23,637 - INFO -   Hour Processing Time,  St :2024-09-12 09:01:44.643423   Et:2024-09-12 09:04:23.637148   Rt:158.96489100006875
+2024-09-12 09:04:23,637 - INFO -   Hour Records Processed    :2101710 docs
+2024-09-12 09:04:23,637 - INFO -   Hour Process Rate         :13221.22 docs/s
+2024-09-12 09:04:23,637 - INFO - 
+2024-09-12 09:04:23,637 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=15
+2024-09-12 09:04:23,646 - INFO - 
+2024-09-12 09:04:23,646 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=15/AsyncOut+0+1034203744.json.gz
+2024-09-12 09:04:23,648 - INFO -     Process Time,         St:2024-09-12 09:04:23.646635  Et:2024-09-12 09:04:23.648658   Rt:0.0020234170369803905
+2024-09-12 09:04:23,648 - INFO -     Records Processed       :49 docs
+2024-09-12 09:04:23,648 - INFO -     Process Rate            :24216.46 docs/s
+2024-09-12 09:04:23,648 - INFO - 
+2024-09-12 09:04:23,648 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=15/AsyncOut+0+1034203804.json.gz
+2024-09-12 09:05:27,556 - INFO -     Process Time,         St:2024-09-12 09:04:23.648896  Et:2024-09-12 09:05:27.556535   Rt:63.90646720805671
+2024-09-12 09:05:27,556 - INFO -     Records Processed       :810768 docs
+2024-09-12 09:05:27,556 - INFO -     Process Rate            :12686.79 docs/s
+2024-09-12 09:05:27,558 - INFO - 
+2024-09-12 09:05:27,558 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=15/AsyncOut+0+1035014575.json.gz
+2024-09-12 09:05:27,559 - INFO -     Process Time,         St:2024-09-12 09:05:27.558534  Et:2024-09-12 09:05:27.559058   Rt:0.0005239159800112247
+2024-09-12 09:05:27,559 - INFO -     Records Processed       :3 docs
+2024-09-12 09:05:27,559 - INFO -     Process Rate            :5726.11 docs/s
+2024-09-12 09:05:27,559 - INFO - 
+2024-09-12 09:05:27,559 - INFO -   Hour Processing Time,  St :2024-09-12 09:04:23.637244   Et:2024-09-12 09:05:27.559148   Rt:63.920728042023256
+2024-09-12 09:05:27,559 - INFO -   Hour Records Processed    :810820 docs
+2024-09-12 09:05:27,559 - INFO -   Hour Process Rate         :12684.77 docs/s
+2024-09-12 09:05:27,559 - INFO - 
+2024-09-12 09:05:27,559 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=16
+2024-09-12 09:05:27,560 - INFO - 
+2024-09-12 09:05:27,560 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=16/AsyncOut+0+1035014572.json.gz
+2024-09-12 09:05:27,560 - INFO -     Process Time,         St:2024-09-12 09:05:27.560400  Et:2024-09-12 09:05:27.560846   Rt:0.0004457499599084258
+2024-09-12 09:05:27,560 - INFO -     Records Processed       :3 docs
+2024-09-12 09:05:27,560 - INFO -     Process Rate            :6730.23 docs/s
+2024-09-12 09:05:27,560 - INFO - 
+2024-09-12 09:05:27,560 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=16/AsyncOut+0+1035014578.json.gz
+2024-09-12 09:05:42,205 - INFO -     Process Time,         St:2024-09-12 09:05:27.560976  Et:2024-09-12 09:05:42.205560   Rt:14.644413291942328
+2024-09-12 09:05:42,206 - INFO -     Records Processed       :167487 docs
+2024-09-12 09:05:42,206 - INFO -     Process Rate            :11436.92 docs/s
+2024-09-12 09:05:42,207 - INFO - 
+2024-09-12 09:05:42,207 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=16/AsyncOut+0+1035182071.json.gz
+2024-09-12 09:05:42,210 - INFO -     Process Time,         St:2024-09-12 09:05:42.207326  Et:2024-09-12 09:05:42.210262   Rt:0.0029365409864112735
+2024-09-12 09:05:42,210 - INFO -     Records Processed       :6 docs
+2024-09-12 09:05:42,210 - INFO -     Process Rate            :2043.22 docs/s
+2024-09-12 09:05:42,210 - INFO - 
+2024-09-12 09:05:42,210 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=16/AsyncOut+0+1035182085.json.gz
+2024-09-12 09:05:42,210 - INFO -     Process Time,         St:2024-09-12 09:05:42.210387  Et:2024-09-12 09:05:42.210988   Rt:0.000600875006057322
+2024-09-12 09:05:42,211 - INFO -     Records Processed       :3 docs
+2024-09-12 09:05:42,211 - INFO -     Process Rate            :4992.72 docs/s
+2024-09-12 09:05:42,211 - INFO - 
+2024-09-12 09:05:42,211 - INFO -   Hour Processing Time,  St :2024-09-12 09:05:27.559241   Et:2024-09-12 09:05:42.211064   Rt:14.65164866601117
+2024-09-12 09:05:42,211 - INFO -   Hour Records Processed    :167499 docs
+2024-09-12 09:05:42,211 - INFO -   Hour Process Rate         :11432.09 docs/s
+2024-09-12 09:05:42,211 - INFO - 
+2024-09-12 09:05:42,211 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=17
+2024-09-12 09:05:42,211 - INFO - 
+2024-09-12 09:05:42,211 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=17/AsyncOut+0+1035182065.json.gz
+2024-09-12 09:05:42,216 - INFO -     Process Time,         St:2024-09-12 09:05:42.214376  Et:2024-09-12 09:05:42.215995   Rt:0.0016194580821320415
+2024-09-12 09:05:42,216 - INFO -     Records Processed       :6 docs
+2024-09-12 09:05:42,216 - INFO -     Process Rate            :3704.94 docs/s
+2024-09-12 09:05:42,216 - INFO - 
+2024-09-12 09:05:42,216 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=17/AsyncOut+0+1035182077.json.gz
+2024-09-12 09:05:42,219 - INFO -     Process Time,         St:2024-09-12 09:05:42.216165  Et:2024-09-12 09:05:42.219541   Rt:0.003376791952177882
+2024-09-12 09:05:42,219 - INFO -     Records Processed       :8 docs
+2024-09-12 09:05:42,219 - INFO -     Process Rate            :2369.11 docs/s
+2024-09-12 09:05:42,219 - INFO - 
+2024-09-12 09:05:42,219 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=17/AsyncOut+0+1035182088.json.gz
+2024-09-12 09:05:55,155 - INFO -     Process Time,         St:2024-09-12 09:05:42.219668  Et:2024-09-12 09:05:55.155945   Rt:12.93613062496297
+2024-09-12 09:05:55,156 - INFO -     Records Processed       :156229 docs
+2024-09-12 09:05:55,156 - INFO -     Process Rate            :12076.95 docs/s
+2024-09-12 09:05:55,156 - INFO - 
+2024-09-12 09:05:55,156 - INFO -   Hour Processing Time,  St :2024-09-12 09:05:42.211159   Et:2024-09-12 09:05:55.156944   Rt:12.9456334579736
+2024-09-12 09:05:55,157 - INFO -   Hour Records Processed    :156243 docs
+2024-09-12 09:05:55,157 - INFO -   Hour Process Rate         :12069.17 docs/s
+2024-09-12 09:05:55,157 - INFO - 
+2024-09-12 09:05:55,157 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=18
+2024-09-12 09:05:55,157 - INFO - 
+2024-09-12 09:05:55,157 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=18/AsyncOut+0+1035338317.json.gz
+2024-09-12 09:06:08,292 - INFO -     Process Time,         St:2024-09-12 09:05:55.157742  Et:2024-09-12 09:06:08.292080   Rt:13.134188540978357
+2024-09-12 09:06:08,292 - INFO -     Records Processed       :151885 docs
+2024-09-12 09:06:08,292 - INFO -     Process Rate            :11564.09 docs/s
+2024-09-12 09:06:08,294 - INFO - 
+2024-09-12 09:06:08,294 - INFO -   Hour Processing Time,  St :2024-09-12 09:05:55.157072   Et:2024-09-12 09:06:08.294546   Rt:13.13732441700995
+2024-09-12 09:06:08,294 - INFO -   Hour Records Processed    :151885 docs
+2024-09-12 09:06:08,294 - INFO -   Hour Process Rate         :11561.33 docs/s
+2024-09-12 09:06:08,294 - INFO - 
+2024-09-12 09:06:08,294 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=19
+2024-09-12 09:06:08,295 - INFO - 
+2024-09-12 09:06:08,295 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=19/AsyncOut+0+1035490202.json.gz
+2024-09-12 09:06:16,442 - INFO -     Process Time,         St:2024-09-12 09:06:08.295274  Et:2024-09-12 09:06:16.442255   Rt:8.146888041985221
+2024-09-12 09:06:16,442 - INFO -     Records Processed       :102283 docs
+2024-09-12 09:06:16,442 - INFO -     Process Rate            :12554.86 docs/s
+2024-09-12 09:06:16,443 - INFO - 
+2024-09-12 09:06:16,443 - INFO -   Hour Processing Time,  St :2024-09-12 09:06:08.294741   Et:2024-09-12 09:06:16.443411   Rt:8.148576249950565
+2024-09-12 09:06:16,443 - INFO -   Hour Records Processed    :102283 docs
+2024-09-12 09:06:16,443 - INFO -   Hour Process Rate         :12552.25 docs/s
+2024-09-12 09:06:16,443 - INFO - 
+2024-09-12 09:06:16,443 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=20
+2024-09-12 09:06:16,443 - INFO - 
+2024-09-12 09:06:16,443 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=20/AsyncOut+0+1035592485.json.gz
+2024-09-12 09:07:39,763 - INFO -     Process Time,         St:2024-09-12 09:06:16.443953  Et:2024-09-12 09:07:39.762975   Rt:83.31805754208472
+2024-09-12 09:07:39,763 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:07:39,763 - INFO -     Process Rate            :12002.2 docs/s
+2024-09-12 09:07:39,763 - INFO - 
+2024-09-12 09:07:39,763 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=20/AsyncOut+0+1036592485.json.gz
+2024-09-12 09:09:07,661 - INFO -     Process Time,         St:2024-09-12 09:07:39.763713  Et:2024-09-12 09:09:07.661419   Rt:87.89668829203583
+2024-09-12 09:09:07,661 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:09:07,661 - INFO -     Process Rate            :11376.99 docs/s
+2024-09-12 09:09:07,662 - INFO - 
+2024-09-12 09:09:07,662 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=20/AsyncOut+0+1037592485.json.gz
+2024-09-12 09:10:35,479 - INFO -     Process Time,         St:2024-09-12 09:09:07.662090  Et:2024-09-12 09:10:35.479178   Rt:87.81606950005516
+2024-09-12 09:10:35,479 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:10:35,479 - INFO -     Process Rate            :11387.44 docs/s
+2024-09-12 09:10:35,479 - INFO - 
+2024-09-12 09:10:35,479 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=20/AsyncOut+0+1038592485.json.gz
+2024-09-12 09:10:54,805 - INFO -     Process Time,         St:2024-09-12 09:10:35.479871  Et:2024-09-12 09:10:54.805145   Rt:19.325053334003314
+2024-09-12 09:10:54,805 - INFO -     Records Processed       :226312 docs
+2024-09-12 09:10:54,805 - INFO -     Process Rate            :11710.81 docs/s
+2024-09-12 09:10:54,806 - INFO - 
+2024-09-12 09:10:54,806 - INFO -   Hour Processing Time,  St :2024-09-12 09:06:16.443531   Et:2024-09-12 09:10:54.806450   Rt:278.3596906249877
+2024-09-12 09:10:54,806 - INFO -   Hour Records Processed    :3226312 docs
+2024-09-12 09:10:54,806 - INFO -   Hour Process Rate         :11590.44 docs/s
+2024-09-12 09:10:54,806 - INFO - 
+2024-09-12 09:10:54,806 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=21
+2024-09-12 09:10:54,808 - INFO - 
+2024-09-12 09:10:54,808 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=21/AsyncOut+0+1038818797.json.gz
+2024-09-12 09:10:57,863 - INFO -     Process Time,         St:2024-09-12 09:10:54.808661  Et:2024-09-12 09:10:57.863557   Rt:3.0548635830637068
+2024-09-12 09:10:57,863 - INFO -     Records Processed       :41988 docs
+2024-09-12 09:10:57,863 - INFO -     Process Rate            :13744.64 docs/s
+2024-09-12 09:10:57,865 - INFO - 
+2024-09-12 09:10:57,865 - INFO -   Hour Processing Time,  St :2024-09-12 09:10:54.806587   Et:2024-09-12 09:10:57.865241   Rt:3.058619000017643
+2024-09-12 09:10:57,865 - INFO -   Hour Records Processed    :41988 docs
+2024-09-12 09:10:57,865 - INFO -   Hour Process Rate         :13727.76 docs/s
+2024-09-12 09:10:57,865 - INFO - 
+2024-09-12 09:10:57,865 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=22
+2024-09-12 09:10:57,866 - INFO - 
+2024-09-12 09:10:57,866 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=22/AsyncOut+0+1038860785.json.gz
+2024-09-12 09:10:59,839 - INFO -     Process Time,         St:2024-09-12 09:10:57.866234  Et:2024-09-12 09:10:59.838968   Rt:1.9727151669794694
+2024-09-12 09:10:59,839 - INFO -     Records Processed       :26156 docs
+2024-09-12 09:10:59,839 - INFO -     Process Rate            :13258.88 docs/s
+2024-09-12 09:10:59,839 - INFO - 
+2024-09-12 09:10:59,839 - INFO -   Hour Processing Time,  St :2024-09-12 09:10:57.865371   Et:2024-09-12 09:10:59.839661   Rt:1.9742687919642776
+2024-09-12 09:10:59,839 - INFO -   Hour Records Processed    :26156 docs
+2024-09-12 09:10:59,839 - INFO -   Hour Process Rate         :13248.45 docs/s
+2024-09-12 09:10:59,839 - INFO - 
+2024-09-12 09:10:59,839 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=23
+2024-09-12 09:10:59,840 - INFO - 
+2024-09-12 09:10:59,840 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=15/hour=23/AsyncOut+0+1038886941.json.gz
+2024-09-12 09:11:01,013 - INFO -     Process Time,         St:2024-09-12 09:10:59.840626  Et:2024-09-12 09:11:01.013728   Rt:1.1730939589906484
+2024-09-12 09:11:01,013 - INFO -     Records Processed       :15776 docs
+2024-09-12 09:11:01,013 - INFO -     Process Rate            :13448.2 docs/s
+2024-09-12 09:11:01,015 - INFO - 
+2024-09-12 09:11:01,015 - INFO -   Hour Processing Time,  St :2024-09-12 09:10:59.839821   Et:2024-09-12 09:11:01.015264   Rt:1.175430458970368
+2024-09-12 09:11:01,015 - INFO -   Hour Records Processed    :15776 docs
+2024-09-12 09:11:01,015 - INFO -   Hour Process Rate         :13421.47 docs/s
+2024-09-12 09:11:01,015 - INFO - 
+2024-09-12 09:11:01,015 - INFO -   Day Processing Time,    St:2024-09-12 08:52:04.349735   Et:2024-09-12 09:11:01.015401   Rt:1136.6275137090124
+2024-09-12 09:11:01,015 - INFO -   Day Records Processed     :14697842 docs
+2024-09-12 09:11:01,015 - INFO -   Day Process Rate          :12931.1 docs/s
+2024-09-12 09:11:01,015 - INFO - 
+2024-09-12 09:11:01,015 - INFO -   Day Dir                   :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16
+2024-09-12 09:11:01,016 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=00
+2024-09-12 09:11:01,016 - INFO - 
+2024-09-12 09:11:01,016 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=00/AsyncOut+0+1038902717.json.gz
+2024-09-12 09:11:02,288 - INFO -     Process Time,         St:2024-09-12 09:11:01.016912  Et:2024-09-12 09:11:02.288406   Rt:1.2714820830151439
+2024-09-12 09:11:02,288 - INFO -     Records Processed       :17192 docs
+2024-09-12 09:11:02,288 - INFO -     Process Rate            :13521.23 docs/s
+2024-09-12 09:11:02,288 - INFO - 
+2024-09-12 09:11:02,288 - INFO -   Hour Processing Time,  St :2024-09-12 09:11:01.016424   Et:2024-09-12 09:11:02.288898   Rt:1.2724548750557005
+2024-09-12 09:11:02,288 - INFO -   Hour Records Processed    :17192 docs
+2024-09-12 09:11:02,288 - INFO -   Hour Process Rate         :13510.89 docs/s
+2024-09-12 09:11:02,288 - INFO - 
+2024-09-12 09:11:02,289 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=01
+2024-09-12 09:11:02,289 - INFO - 
+2024-09-12 09:11:02,289 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=01/AsyncOut+0+1038919909.json.gz
+2024-09-12 09:11:03,404 - INFO -     Process Time,         St:2024-09-12 09:11:02.289637  Et:2024-09-12 09:11:03.404102   Rt:1.1144550839671865
+2024-09-12 09:11:03,405 - INFO -     Records Processed       :15586 docs
+2024-09-12 09:11:03,405 - INFO -     Process Rate            :13985.31 docs/s
+2024-09-12 09:11:03,407 - INFO - 
+2024-09-12 09:11:03,407 - INFO -   Hour Processing Time,  St :2024-09-12 09:11:02.289015   Et:2024-09-12 09:11:03.407111   Rt:1.1180850000819191
+2024-09-12 09:11:03,407 - INFO -   Hour Records Processed    :15586 docs
+2024-09-12 09:11:03,407 - INFO -   Hour Process Rate         :13939.91 docs/s
+2024-09-12 09:11:03,407 - INFO - 
+2024-09-12 09:11:03,407 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=02
+2024-09-12 09:11:03,407 - INFO - 
+2024-09-12 09:11:03,407 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=02/AsyncOut+0+1038935495.json.gz
+2024-09-12 09:11:07,879 - INFO -     Process Time,         St:2024-09-12 09:11:03.407782  Et:2024-09-12 09:11:07.879328   Rt:4.471499500097707
+2024-09-12 09:11:07,879 - INFO -     Records Processed       :62078 docs
+2024-09-12 09:11:07,879 - INFO -     Process Rate            :13883.04 docs/s
+2024-09-12 09:11:07,879 - INFO - 
+2024-09-12 09:11:07,879 - INFO -   Hour Processing Time,  St :2024-09-12 09:11:03.407266   Et:2024-09-12 09:11:07.879948   Rt:4.472631249926053
+2024-09-12 09:11:07,880 - INFO -   Hour Records Processed    :62078 docs
+2024-09-12 09:11:07,880 - INFO -   Hour Process Rate         :13879.53 docs/s
+2024-09-12 09:11:07,880 - INFO - 
+2024-09-12 09:11:07,880 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=03
+2024-09-12 09:11:07,880 - INFO - 
+2024-09-12 09:11:07,880 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=03/AsyncOut+0+1038997573.json.gz
+2024-09-12 09:11:11,232 - INFO -     Process Time,         St:2024-09-12 09:11:07.880593  Et:2024-09-12 09:11:11.232553   Rt:3.35192341695074
+2024-09-12 09:11:11,232 - INFO -     Records Processed       :45008 docs
+2024-09-12 09:11:11,232 - INFO -     Process Rate            :13427.51 docs/s
+2024-09-12 09:11:11,232 - INFO - 
+2024-09-12 09:11:11,232 - INFO -   Hour Processing Time,  St :2024-09-12 09:11:07.880154   Et:2024-09-12 09:11:11.232768   Rt:3.3525748749962077
+2024-09-12 09:11:11,232 - INFO -   Hour Records Processed    :45008 docs
+2024-09-12 09:11:11,232 - INFO -   Hour Process Rate         :13424.91 docs/s
+2024-09-12 09:11:11,232 - INFO - 
+2024-09-12 09:11:11,232 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=04
+2024-09-12 09:11:11,233 - INFO - 
+2024-09-12 09:11:11,234 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=04/AsyncOut+0+1039042581.json.gz
+2024-09-12 09:11:21,202 - INFO -     Process Time,         St:2024-09-12 09:11:11.234068  Et:2024-09-12 09:11:21.202116   Rt:9.967934041982517
+2024-09-12 09:11:21,202 - INFO -     Records Processed       :132198 docs
+2024-09-12 09:11:21,202 - INFO -     Process Rate            :13262.33 docs/s
+2024-09-12 09:11:21,202 - INFO - 
+2024-09-12 09:11:21,202 - INFO -   Hour Processing Time,  St :2024-09-12 09:11:11.232869   Et:2024-09-12 09:11:21.202959   Rt:9.969974459032528
+2024-09-12 09:11:21,203 - INFO -   Hour Records Processed    :132198 docs
+2024-09-12 09:11:21,203 - INFO -   Hour Process Rate         :13259.61 docs/s
+2024-09-12 09:11:21,203 - INFO - 
+2024-09-12 09:11:21,203 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=05
+2024-09-12 09:11:21,203 - INFO - 
+2024-09-12 09:11:21,203 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=05/AsyncOut+0+1039174779.json.gz
+2024-09-12 09:12:35,932 - INFO -     Process Time,         St:2024-09-12 09:11:21.203493  Et:2024-09-12 09:12:35.932280   Rt:74.72792224993464
+2024-09-12 09:12:35,932 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:12:35,932 - INFO -     Process Rate            :13381.88 docs/s
+2024-09-12 09:12:35,933 - INFO - 
+2024-09-12 09:12:35,933 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=05/AsyncOut+0+1040174779.json.gz
+2024-09-12 09:13:04,931 - INFO -     Process Time,         St:2024-09-12 09:12:35.933162  Et:2024-09-12 09:13:04.931578   Rt:28.998081125086173
+2024-09-12 09:13:04,931 - INFO -     Records Processed       :390037 docs
+2024-09-12 09:13:04,931 - INFO -     Process Rate            :13450.44 docs/s
+2024-09-12 09:13:04,932 - INFO - 
+2024-09-12 09:13:04,932 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=05/AsyncOut+0+1040564817.json.gz
+2024-09-12 09:13:04,932 - INFO -     Process Time,         St:2024-09-12 09:13:04.932096  Et:2024-09-12 09:13:04.932726   Rt:0.0006307089934125543
+2024-09-12 09:13:04,932 - INFO -     Records Processed       :3 docs
+2024-09-12 09:13:04,932 - INFO -     Process Rate            :4756.55 docs/s
+2024-09-12 09:13:04,932 - INFO - 
+2024-09-12 09:13:04,932 - INFO -   Hour Processing Time,  St :2024-09-12 09:11:21.203066   Et:2024-09-12 09:13:04.932855   Rt:103.72858545801137
+2024-09-12 09:13:04,932 - INFO -   Hour Records Processed    :1390040 docs
+2024-09-12 09:13:04,932 - INFO -   Hour Process Rate         :13400.74 docs/s
+2024-09-12 09:13:04,932 - INFO - 
+2024-09-12 09:13:04,932 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=06
+2024-09-12 09:13:04,933 - INFO - 
+2024-09-12 09:13:04,933 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=06/AsyncOut+0+1040564816.json.gz
+2024-09-12 09:13:04,933 - INFO -     Process Time,         St:2024-09-12 09:13:04.933428  Et:2024-09-12 09:13:04.933923   Rt:0.000495915999636054
+2024-09-12 09:13:04,933 - INFO -     Records Processed       :1 docs
+2024-09-12 09:13:04,934 - INFO -     Process Rate            :2016.47 docs/s
+2024-09-12 09:13:04,934 - INFO - 
+2024-09-12 09:13:04,934 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=06/AsyncOut+0+1040564820.json.gz
+2024-09-12 09:13:46,748 - INFO -     Process Time,         St:2024-09-12 09:13:04.934068  Et:2024-09-12 09:13:46.748483   Rt:41.813934582984075
+2024-09-12 09:13:46,749 - INFO -     Records Processed       :547295 docs
+2024-09-12 09:13:46,749 - INFO -     Process Rate            :13088.82 docs/s
+2024-09-12 09:13:46,750 - INFO - 
+2024-09-12 09:13:46,750 - INFO -   Hour Processing Time,  St :2024-09-12 09:13:04.932965   Et:2024-09-12 09:13:46.750015   Rt:41.81656616705004
+2024-09-12 09:13:46,750 - INFO -   Hour Records Processed    :547296 docs
+2024-09-12 09:13:46,750 - INFO -   Hour Process Rate         :13088.02 docs/s
+2024-09-12 09:13:46,750 - INFO - 
+2024-09-12 09:13:46,750 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=07
+2024-09-12 09:13:46,751 - INFO - 
+2024-09-12 09:13:46,751 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=07/AsyncOut+0+1041112115.json.gz
+2024-09-12 09:14:25,783 - INFO -     Process Time,         St:2024-09-12 09:13:46.761266  Et:2024-09-12 09:14:25.783306   Rt:39.02158866694663
+2024-09-12 09:14:25,783 - INFO -     Records Processed       :512864 docs
+2024-09-12 09:14:25,783 - INFO -     Process Rate            :13143.08 docs/s
+2024-09-12 09:14:25,785 - INFO - 
+2024-09-12 09:14:25,785 - INFO -   Hour Processing Time,  St :2024-09-12 09:13:46.750208   Et:2024-09-12 09:14:25.785064   Rt:39.034403792000376
+2024-09-12 09:14:25,785 - INFO -   Hour Records Processed    :512864 docs
+2024-09-12 09:14:25,785 - INFO -   Hour Process Rate         :13138.77 docs/s
+2024-09-12 09:14:25,785 - INFO - 
+2024-09-12 09:14:25,785 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=08
+2024-09-12 09:14:25,785 - INFO - 
+2024-09-12 09:14:25,785 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=08/AsyncOut+0+1041624979.json.gz
+2024-09-12 09:14:43,238 - INFO -     Process Time,         St:2024-09-12 09:14:25.785820  Et:2024-09-12 09:14:43.238569   Rt:17.45255112508312
+2024-09-12 09:14:43,238 - INFO -     Records Processed       :223675 docs
+2024-09-12 09:14:43,238 - INFO -     Process Rate            :12816.18 docs/s
+2024-09-12 09:14:43,240 - INFO - 
+2024-09-12 09:14:43,240 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=08/AsyncOut+0+1041848655.json.gz
+2024-09-12 09:14:43,240 - INFO -     Process Time,         St:2024-09-12 09:14:43.240113  Et:2024-09-12 09:14:43.240643   Rt:0.0005310000851750374
+2024-09-12 09:14:43,240 - INFO -     Records Processed       :3 docs
+2024-09-12 09:14:43,240 - INFO -     Process Rate            :5649.72 docs/s
+2024-09-12 09:14:43,240 - INFO - 
+2024-09-12 09:14:43,240 - INFO -   Hour Processing Time,  St :2024-09-12 09:14:25.785191   Et:2024-09-12 09:14:43.240749   Rt:17.45535516703967
+2024-09-12 09:14:43,240 - INFO -   Hour Records Processed    :223678 docs
+2024-09-12 09:14:43,240 - INFO -   Hour Process Rate         :12814.29 docs/s
+2024-09-12 09:14:43,240 - INFO - 
+2024-09-12 09:14:43,240 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=09
+2024-09-12 09:14:43,241 - INFO - 
+2024-09-12 09:14:43,241 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=09/AsyncOut+0+1041848654.json.gz
+2024-09-12 09:14:43,241 - INFO -     Process Time,         St:2024-09-12 09:14:43.241248  Et:2024-09-12 09:14:43.241697   Rt:0.00044941704254597425
+2024-09-12 09:14:43,241 - INFO -     Records Processed       :1 docs
+2024-09-12 09:14:43,241 - INFO -     Process Rate            :2225.1 docs/s
+2024-09-12 09:14:43,241 - INFO - 
+2024-09-12 09:14:43,241 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=09/AsyncOut+0+1041848658.json.gz
+2024-09-12 09:15:16,641 - INFO -     Process Time,         St:2024-09-12 09:14:43.241796  Et:2024-09-12 09:15:16.641178   Rt:33.39899600006174
+2024-09-12 09:15:16,641 - INFO -     Records Processed       :443118 docs
+2024-09-12 09:15:16,641 - INFO -     Process Rate            :13267.4 docs/s
+2024-09-12 09:15:16,641 - INFO - 
+2024-09-12 09:15:16,641 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=09/AsyncOut+0+1042291779.json.gz
+2024-09-12 09:15:16,642 - INFO -     Process Time,         St:2024-09-12 09:15:16.641861  Et:2024-09-12 09:15:16.642536   Rt:0.0006754589267075062
+2024-09-12 09:15:16,642 - INFO -     Records Processed       :5 docs
+2024-09-12 09:15:16,642 - INFO -     Process Rate            :7402.37 docs/s
+2024-09-12 09:15:16,642 - INFO - 
+2024-09-12 09:15:16,642 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=09/AsyncOut+0+1042291787.json.gz
+2024-09-12 09:15:16,643 - INFO -     Process Time,         St:2024-09-12 09:15:16.642666  Et:2024-09-12 09:15:16.643084   Rt:0.0004184999270364642
+2024-09-12 09:15:16,643 - INFO -     Records Processed       :4 docs
+2024-09-12 09:15:16,643 - INFO -     Process Rate            :9557.95 docs/s
+2024-09-12 09:15:16,643 - INFO - 
+2024-09-12 09:15:16,643 - INFO -   Hour Processing Time,  St :2024-09-12 09:14:43.240845   Et:2024-09-12 09:15:16.643166   Rt:33.40193324990105
+2024-09-12 09:15:16,643 - INFO -   Hour Records Processed    :443128 docs
+2024-09-12 09:15:16,643 - INFO -   Hour Process Rate         :13266.54 docs/s
+2024-09-12 09:15:16,643 - INFO - 
+2024-09-12 09:15:16,643 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=10
+2024-09-12 09:15:16,643 - INFO - 
+2024-09-12 09:15:16,643 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=10/AsyncOut+0+1042291776.json.gz
+2024-09-12 09:15:16,644 - INFO -     Process Time,         St:2024-09-12 09:15:16.643801  Et:2024-09-12 09:15:16.644230   Rt:0.00042954098898917437
+2024-09-12 09:15:16,644 - INFO -     Records Processed       :3 docs
+2024-09-12 09:15:16,644 - INFO -     Process Rate            :6984.2 docs/s
+2024-09-12 09:15:16,644 - INFO - 
+2024-09-12 09:15:16,644 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=10/AsyncOut+0+1042291784.json.gz
+2024-09-12 09:15:16,644 - INFO -     Process Time,         St:2024-09-12 09:15:16.644365  Et:2024-09-12 09:15:16.644719   Rt:0.00035404099617153406
+2024-09-12 09:15:16,644 - INFO -     Records Processed       :3 docs
+2024-09-12 09:15:16,644 - INFO -     Process Rate            :8473.59 docs/s
+2024-09-12 09:15:16,644 - INFO - 
+2024-09-12 09:15:16,644 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=10/AsyncOut+0+1042291791.json.gz
+2024-09-12 09:15:46,337 - INFO -     Process Time,         St:2024-09-12 09:15:16.644830  Et:2024-09-12 09:15:46.337793   Rt:29.69262158300262
+2024-09-12 09:15:46,338 - INFO -     Records Processed       :393104 docs
+2024-09-12 09:15:46,338 - INFO -     Process Rate            :13239.11 docs/s
+2024-09-12 09:15:46,338 - INFO - 
+2024-09-12 09:15:46,338 - INFO -   Hour Processing Time,  St :2024-09-12 09:15:16.643259   Et:2024-09-12 09:15:46.338477   Rt:29.694872958003543
+2024-09-12 09:15:46,338 - INFO -   Hour Records Processed    :393110 docs
+2024-09-12 09:15:46,338 - INFO -   Hour Process Rate         :13238.31 docs/s
+2024-09-12 09:15:46,338 - INFO - 
+2024-09-12 09:15:46,338 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=11
+2024-09-12 09:15:46,339 - INFO - 
+2024-09-12 09:15:46,339 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=11/AsyncOut+0+1042684895.json.gz
+2024-09-12 09:16:10,899 - INFO -     Process Time,         St:2024-09-12 09:15:46.339118  Et:2024-09-12 09:16:10.899775   Rt:24.56037662504241
+2024-09-12 09:16:10,900 - INFO -     Records Processed       :305816 docs
+2024-09-12 09:16:10,900 - INFO -     Process Rate            :12451.6 docs/s
+2024-09-12 09:16:10,902 - INFO - 
+2024-09-12 09:16:10,902 - INFO -   Hour Processing Time,  St :2024-09-12 09:15:46.338596   Et:2024-09-12 09:16:10.902307   Rt:24.563430666923523
+2024-09-12 09:16:10,902 - INFO -   Hour Records Processed    :305816 docs
+2024-09-12 09:16:10,902 - INFO -   Hour Process Rate         :12450.05 docs/s
+2024-09-12 09:16:10,902 - INFO - 
+2024-09-12 09:16:10,902 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=12
+2024-09-12 09:16:10,906 - INFO - 
+2024-09-12 09:16:10,906 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=12/AsyncOut+0+1042990711.json.gz
+2024-09-12 09:17:27,607 - INFO -     Process Time,         St:2024-09-12 09:16:10.906378  Et:2024-09-12 09:17:27.607122   Rt:76.69985820900183
+2024-09-12 09:17:27,607 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:17:27,607 - INFO -     Process Rate            :13037.83 docs/s
+2024-09-12 09:17:27,607 - INFO - 
+2024-09-12 09:17:27,607 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=12/AsyncOut+0+1043990711.json.gz
+2024-09-12 09:17:38,628 - INFO -     Process Time,         St:2024-09-12 09:17:27.607750  Et:2024-09-12 09:17:38.628157   Rt:11.020283207995817
+2024-09-12 09:17:38,628 - INFO -     Records Processed       :144972 docs
+2024-09-12 09:17:38,628 - INFO -     Process Rate            :13155.02 docs/s
+2024-09-12 09:17:38,629 - INFO - 
+2024-09-12 09:17:38,629 - INFO -   Hour Processing Time,  St :2024-09-12 09:16:10.902533   Et:2024-09-12 09:17:38.629813   Rt:87.72626283299178
+2024-09-12 09:17:38,629 - INFO -   Hour Records Processed    :1144972 docs
+2024-09-12 09:17:38,629 - INFO -   Hour Process Rate         :13051.64 docs/s
+2024-09-12 09:17:38,629 - INFO - 
+2024-09-12 09:17:38,629 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=13
+2024-09-12 09:17:38,630 - INFO - 
+2024-09-12 09:17:38,630 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=13/AsyncOut+0+1044135683.json.gz
+2024-09-12 09:18:29,763 - INFO -     Process Time,         St:2024-09-12 09:17:38.630785  Et:2024-09-12 09:18:29.763681   Rt:51.22428729198873
+2024-09-12 09:18:29,764 - INFO -     Records Processed       :665629 docs
+2024-09-12 09:18:29,764 - INFO -     Process Rate            :12994.4 docs/s
+2024-09-12 09:18:29,765 - INFO - 
+2024-09-12 09:18:29,765 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=13/AsyncOut+0+1044801318.json.gz
+2024-09-12 09:18:29,766 - INFO -     Process Time,         St:2024-09-12 09:18:29.765572  Et:2024-09-12 09:18:29.766011   Rt:0.0004403339698910713
+2024-09-12 09:18:29,766 - INFO -     Records Processed       :1 docs
+2024-09-12 09:18:29,766 - INFO -     Process Rate            :2271.0 docs/s
+2024-09-12 09:18:29,766 - INFO - 
+2024-09-12 09:18:29,766 - INFO -   Hour Processing Time,  St :2024-09-12 09:17:38.629948   Et:2024-09-12 09:18:29.766097   Rt:51.22753933293279
+2024-09-12 09:18:29,766 - INFO -   Hour Records Processed    :665630 docs
+2024-09-12 09:18:29,766 - INFO -   Hour Process Rate         :12993.6 docs/s
+2024-09-12 09:18:29,766 - INFO - 
+2024-09-12 09:18:29,766 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=14
+2024-09-12 09:18:29,771 - INFO - 
+2024-09-12 09:18:29,771 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=14/AsyncOut+0+1044801312.json.gz
+2024-09-12 09:18:29,771 - INFO -     Process Time,         St:2024-09-12 09:18:29.771257  Et:2024-09-12 09:18:29.771754   Rt:0.000497667002491653
+2024-09-12 09:18:29,771 - INFO -     Records Processed       :6 docs
+2024-09-12 09:18:29,771 - INFO -     Process Rate            :12056.25 docs/s
+2024-09-12 09:18:29,771 - INFO - 
+2024-09-12 09:18:29,771 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=14/AsyncOut+0+1044801319.json.gz
+2024-09-12 09:19:33,696 - INFO -     Process Time,         St:2024-09-12 09:18:29.771896  Et:2024-09-12 09:19:33.696802   Rt:63.945907917106524
+2024-09-12 09:19:33,697 - INFO -     Records Processed       :858921 docs
+2024-09-12 09:19:33,697 - INFO -     Process Rate            :13431.99 docs/s
+2024-09-12 09:19:33,698 - INFO - 
+2024-09-12 09:19:33,698 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=14/AsyncOut+0+1045660303.json.gz
+2024-09-12 09:19:33,699 - INFO -     Process Time,         St:2024-09-12 09:19:33.698793  Et:2024-09-12 09:19:33.699736   Rt:0.0009437500266358256
+2024-09-12 09:19:33,699 - INFO -     Records Processed       :15 docs
+2024-09-12 09:19:33,699 - INFO -     Process Rate            :15894.04 docs/s
+2024-09-12 09:19:33,699 - INFO - 
+2024-09-12 09:19:33,699 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=14/AsyncOut+0+1045660391.json.gz
+2024-09-12 09:19:33,700 - INFO -     Process Time,         St:2024-09-12 09:19:33.699898  Et:2024-09-12 09:19:33.700449   Rt:0.0005518340039998293
+2024-09-12 09:19:33,700 - INFO -     Records Processed       :7 docs
+2024-09-12 09:19:33,700 - INFO -     Process Rate            :12684.97 docs/s
+2024-09-12 09:19:33,700 - INFO - 
+2024-09-12 09:19:33,700 - INFO -   Hour Processing Time,  St :2024-09-12 09:18:29.766189   Et:2024-09-12 09:19:33.700535   Rt:63.9553518750472
+2024-09-12 09:19:33,700 - INFO -   Hour Records Processed    :858949 docs
+2024-09-12 09:19:33,700 - INFO -   Hour Process Rate         :13430.45 docs/s
+2024-09-12 09:19:33,700 - INFO - 
+2024-09-12 09:19:33,700 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=15
+2024-09-12 09:19:33,701 - INFO - 
+2024-09-12 09:19:33,701 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=15/AsyncOut+0+1045660240.json.gz
+2024-09-12 09:19:33,703 - INFO -     Process Time,         St:2024-09-12 09:19:33.701513  Et:2024-09-12 09:19:33.703697   Rt:0.002183500095270574
+2024-09-12 09:19:33,703 - INFO -     Records Processed       :63 docs
+2024-09-12 09:19:33,703 - INFO -     Process Rate            :28852.76 docs/s
+2024-09-12 09:19:33,703 - INFO - 
+2024-09-12 09:19:33,703 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=15/AsyncOut+0+1045660318.json.gz
+2024-09-12 09:19:33,707 - INFO -     Process Time,         St:2024-09-12 09:19:33.703894  Et:2024-09-12 09:19:33.707334   Rt:0.0034402080345898867
+2024-09-12 09:19:33,707 - INFO -     Records Processed       :73 docs
+2024-09-12 09:19:33,707 - INFO -     Process Rate            :21219.65 docs/s
+2024-09-12 09:19:33,707 - INFO - 
+2024-09-12 09:19:33,707 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=15/AsyncOut+0+1045660398.json.gz
+2024-09-12 09:20:48,728 - INFO -     Process Time,         St:2024-09-12 09:19:33.707584  Et:2024-09-12 09:20:48.728885   Rt:75.02171337499749
+2024-09-12 09:20:48,729 - INFO -     Records Processed       :1000000 docs
+2024-09-12 09:20:48,729 - INFO -     Process Rate            :13329.47 docs/s
+2024-09-12 09:20:48,729 - INFO - 
+2024-09-12 09:20:48,729 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=15/AsyncOut+0+1046660398.json.gz
+2024-09-12 09:20:51,855 - INFO -     Process Time,         St:2024-09-12 09:20:48.729558  Et:2024-09-12 09:20:51.855690   Rt:3.126136708073318
+2024-09-12 09:20:51,855 - INFO -     Records Processed       :42076 docs
+2024-09-12 09:20:51,855 - INFO -     Process Rate            :13459.42 docs/s
+2024-09-12 09:20:51,856 - INFO - 
+2024-09-12 09:20:51,856 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=15/AsyncOut+0+1046702478.json.gz
+2024-09-12 09:20:51,856 - INFO -     Process Time,         St:2024-09-12 09:20:51.856059  Et:2024-09-12 09:20:51.856715   Rt:0.0006569999968633056
+2024-09-12 09:20:51,856 - INFO -     Records Processed       :3 docs
+2024-09-12 09:20:51,856 - INFO -     Process Rate            :4566.21 docs/s
+2024-09-12 09:20:51,856 - INFO - 
+2024-09-12 09:20:51,856 - INFO -   Hour Processing Time,  St :2024-09-12 09:19:33.700626   Et:2024-09-12 09:20:51.856846   Rt:78.1566333330702
+2024-09-12 09:20:51,856 - INFO -   Hour Records Processed    :1042215 docs
+2024-09-12 09:20:51,856 - INFO -   Hour Process Rate         :13334.95 docs/s
+2024-09-12 09:20:51,856 - INFO - 
+2024-09-12 09:20:51,856 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=16
+2024-09-12 09:20:51,857 - INFO - 
+2024-09-12 09:20:51,857 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=16/AsyncOut+0+1046702474.json.gz
+2024-09-12 09:20:51,858 - INFO -     Process Time,         St:2024-09-12 09:20:51.857972  Et:2024-09-12 09:20:51.858328   Rt:0.00035562505945563316
+2024-09-12 09:20:51,858 - INFO -     Records Processed       :4 docs
+2024-09-12 09:20:51,858 - INFO -     Process Rate            :11247.8 docs/s
+2024-09-12 09:20:51,858 - INFO - 
+2024-09-12 09:20:51,858 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=16/AsyncOut+0+1046702481.json.gz
+2024-09-12 09:21:07,056 - INFO -     Process Time,         St:2024-09-12 09:20:51.858446  Et:2024-09-12 09:21:07.056679   Rt:15.198253458016552
+2024-09-12 09:21:07,056 - INFO -     Records Processed       :202684 docs
+2024-09-12 09:21:07,056 - INFO -     Process Rate            :13336.01 docs/s
+2024-09-12 09:21:07,058 - INFO - 
+2024-09-12 09:21:07,058 - INFO -   Hour Processing Time,  St :2024-09-12 09:20:51.856950   Et:2024-09-12 09:21:07.058147   Rt:15.201212582993321
+2024-09-12 09:21:07,058 - INFO -   Hour Records Processed    :202688 docs
+2024-09-12 09:21:07,058 - INFO -   Hour Process Rate         :13333.67 docs/s
+2024-09-12 09:21:07,058 - INFO - 
+2024-09-12 09:21:07,058 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=17
+2024-09-12 09:21:07,059 - INFO - 
+2024-09-12 09:21:07,059 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=17/AsyncOut+0+1046905165.json.gz
+2024-09-12 09:21:17,976 - INFO -     Process Time,         St:2024-09-12 09:21:07.059751  Et:2024-09-12 09:21:17.976155   Rt:10.916414667037316
+2024-09-12 09:21:17,976 - INFO -     Records Processed       :142248 docs
+2024-09-12 09:21:17,976 - INFO -     Process Rate            :13030.65 docs/s
+2024-09-12 09:21:17,977 - INFO - 
+2024-09-12 09:21:17,977 - INFO -   Hour Processing Time,  St :2024-09-12 09:21:07.058401   Et:2024-09-12 09:21:17.977066   Rt:10.918674750020728
+2024-09-12 09:21:17,977 - INFO -   Hour Records Processed    :142248 docs
+2024-09-12 09:21:17,977 - INFO -   Hour Process Rate         :13027.95 docs/s
+2024-09-12 09:21:17,977 - INFO - 
+2024-09-12 09:21:17,977 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=18
+2024-09-12 09:21:17,977 - INFO - 
+2024-09-12 09:21:17,977 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=18/AsyncOut+0+1047047413.json.gz
+2024-09-12 09:21:29,588 - INFO -     Process Time,         St:2024-09-12 09:21:17.985136  Et:2024-09-12 09:21:29.588885   Rt:11.603762665996328
+2024-09-12 09:21:29,589 - INFO -     Records Processed       :151776 docs
+2024-09-12 09:21:29,589 - INFO -     Process Rate            :13079.9 docs/s
+2024-09-12 09:21:29,590 - INFO - 
+2024-09-12 09:21:29,590 - INFO -   Hour Processing Time,  St :2024-09-12 09:21:17.977167   Et:2024-09-12 09:21:29.590778   Rt:11.613622959004715
+2024-09-12 09:21:29,590 - INFO -   Hour Records Processed    :151776 docs
+2024-09-12 09:21:29,590 - INFO -   Hour Process Rate         :13068.79 docs/s
+2024-09-12 09:21:29,590 - INFO - 
+2024-09-12 09:21:29,590 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=19
+2024-09-12 09:21:29,591 - INFO - 
+2024-09-12 09:21:29,591 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=19/AsyncOut+0+1047199189.json.gz
+2024-09-12 09:21:38,374 - INFO -     Process Time,         St:2024-09-12 09:21:29.591889  Et:2024-09-12 09:21:38.374732   Rt:8.782855416997336
+2024-09-12 09:21:38,375 - INFO -     Records Processed       :116955 docs
+2024-09-12 09:21:38,375 - INFO -     Process Rate            :13316.28 docs/s
+2024-09-12 09:21:38,376 - INFO - 
+2024-09-12 09:21:38,376 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=19/AsyncOut+0+1047316145.json.gz
+2024-09-12 09:21:38,377 - INFO -     Process Time,         St:2024-09-12 09:21:38.376998  Et:2024-09-12 09:21:38.377425   Rt:0.00042699999175965786
+2024-09-12 09:21:38,377 - INFO -     Records Processed       :1 docs
+2024-09-12 09:21:38,377 - INFO -     Process Rate            :2341.92 docs/s
+2024-09-12 09:21:38,377 - INFO - 
+2024-09-12 09:21:38,377 - INFO -   Hour Processing Time,  St :2024-09-12 09:21:29.590903   Et:2024-09-12 09:21:38.377522   Rt:8.786627416033298
+2024-09-12 09:21:38,377 - INFO -   Hour Records Processed    :116956 docs
+2024-09-12 09:21:38,377 - INFO -   Hour Process Rate         :13310.68 docs/s
+2024-09-12 09:21:38,377 - INFO - 
+2024-09-12 09:21:38,377 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=20
+2024-09-12 09:21:38,378 - INFO - 
+2024-09-12 09:21:38,378 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=20/AsyncOut+0+1047316144.json.gz
+2024-09-12 09:21:38,378 - INFO -     Process Time,         St:2024-09-12 09:21:38.378344  Et:2024-09-12 09:21:38.378833   Rt:0.000489416066557169
+2024-09-12 09:21:38,378 - INFO -     Records Processed       :1 docs
+2024-09-12 09:21:38,378 - INFO -     Process Rate            :2043.25 docs/s
+2024-09-12 09:21:38,378 - INFO - 
+2024-09-12 09:21:38,378 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=20/AsyncOut+0+1047316146.json.gz
+2024-09-12 09:22:25,206 - INFO -     Process Time,         St:2024-09-12 09:21:38.378969  Et:2024-09-12 09:22:25.205971   Rt:46.82704708294477
+2024-09-12 09:22:25,206 - INFO -     Records Processed       :564107 docs
+2024-09-12 09:22:25,206 - INFO -     Process Rate            :12046.61 docs/s
+2024-09-12 09:22:25,206 - INFO - 
+2024-09-12 09:22:25,206 - INFO -   Hour Processing Time,  St :2024-09-12 09:21:38.377622   Et:2024-09-12 09:22:25.206698   Rt:46.8291191670578
+2024-09-12 09:22:25,206 - INFO -   Hour Records Processed    :564108 docs
+2024-09-12 09:22:25,206 - INFO -   Hour Process Rate         :12046.09 docs/s
+2024-09-12 09:22:25,206 - INFO - 
+2024-09-12 09:22:25,206 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=21
+2024-09-12 09:22:25,207 - INFO - 
+2024-09-12 09:22:25,207 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=21/AsyncOut+0+1047880253.json.gz
+2024-09-12 09:22:28,564 - INFO -     Process Time,         St:2024-09-12 09:22:25.207680  Et:2024-09-12 09:22:28.564714   Rt:3.3570386660285294
+2024-09-12 09:22:28,564 - INFO -     Records Processed       :46226 docs
+2024-09-12 09:22:28,564 - INFO -     Process Rate            :13769.87 docs/s
+2024-09-12 09:22:28,565 - INFO - 
+2024-09-12 09:22:28,565 - INFO -   Hour Processing Time,  St :2024-09-12 09:22:25.206805   Et:2024-09-12 09:22:28.565238   Rt:3.35843608295545
+2024-09-12 09:22:28,565 - INFO -   Hour Records Processed    :46226 docs
+2024-09-12 09:22:28,565 - INFO -   Hour Process Rate         :13764.14 docs/s
+2024-09-12 09:22:28,565 - INFO - 
+2024-09-12 09:22:28,565 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=22
+2024-09-12 09:22:28,565 - INFO - 
+2024-09-12 09:22:28,565 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=22/AsyncOut+0+1047926479.json.gz
+2024-09-12 09:22:29,645 - INFO -     Process Time,         St:2024-09-12 09:22:28.565818  Et:2024-09-12 09:22:29.644825   Rt:1.0790129590313882
+2024-09-12 09:22:29,645 - INFO -     Records Processed       :14280 docs
+2024-09-12 09:22:29,645 - INFO -     Process Rate            :13234.32 docs/s
+2024-09-12 09:22:29,646 - INFO - 
+2024-09-12 09:22:29,646 - INFO -   Hour Processing Time,  St :2024-09-12 09:22:28.565346   Et:2024-09-12 09:22:29.646349   Rt:1.0810047080740333
+2024-09-12 09:22:29,646 - INFO -   Hour Records Processed    :14280 docs
+2024-09-12 09:22:29,646 - INFO -   Hour Process Rate         :13209.93 docs/s
+2024-09-12 09:22:29,646 - INFO - 
+2024-09-12 09:22:29,646 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=23
+2024-09-12 09:22:29,647 - INFO - 
+2024-09-12 09:22:29,647 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=16/hour=23/AsyncOut+0+1047940759.json.gz
+2024-09-12 09:22:30,362 - INFO -     Process Time,         St:2024-09-12 09:22:29.647405  Et:2024-09-12 09:22:30.362309   Rt:0.7149102910188958
+2024-09-12 09:22:30,364 - INFO -     Records Processed       :7796 docs
+2024-09-12 09:22:30,364 - INFO -     Process Rate            :10904.86 docs/s
+2024-09-12 09:22:30,366 - INFO - 
+2024-09-12 09:22:30,368 - INFO -   Hour Processing Time,  St :2024-09-12 09:22:29.646473   Et:2024-09-12 09:22:30.366542   Rt:0.7200726250885054
+2024-09-12 09:22:30,368 - INFO -   Hour Records Processed    :7796 docs
+2024-09-12 09:22:30,368 - INFO -   Hour Process Rate         :10826.69 docs/s
+2024-09-12 09:22:30,368 - INFO - 
+2024-09-12 09:22:30,368 - INFO -   Day Processing Time,    St:2024-09-12 09:11:01.015485   Et:2024-09-12 09:22:30.368337   Rt:689.461143707973
+2024-09-12 09:22:30,368 - INFO -   Day Records Processed     :9045838 docs
+2024-09-12 09:22:30,368 - INFO -   Day Process Rate          :13120.16 docs/s
+2024-09-12 09:22:30,368 - INFO - 
+2024-09-12 09:22:30,368 - INFO -   Day Dir                   :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17
+2024-09-12 09:22:30,369 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=00
+2024-09-12 09:22:30,374 - INFO - 
+2024-09-12 09:22:30,374 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=00/AsyncOut+0+1047948555.json.gz
+2024-09-12 09:22:31,011 - INFO -     Process Time,         St:2024-09-12 09:22:30.374481  Et:2024-09-12 09:22:31.011261   Rt:0.6367833339609206
+2024-09-12 09:22:31,011 - INFO -     Records Processed       :7138 docs
+2024-09-12 09:22:31,011 - INFO -     Process Rate            :11209.46 docs/s
+2024-09-12 09:22:31,011 - INFO - 
+2024-09-12 09:22:31,011 - INFO -   Hour Processing Time,  St :2024-09-12 09:22:30.369719   Et:2024-09-12 09:22:31.011728   Rt:0.6420118330279365
+2024-09-12 09:22:31,011 - INFO -   Hour Records Processed    :7138 docs
+2024-09-12 09:22:31,011 - INFO -   Hour Process Rate         :11118.18 docs/s
+2024-09-12 09:22:31,011 - INFO - 
+2024-09-12 09:22:31,011 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=01
+2024-09-12 09:22:31,012 - INFO - 
+2024-09-12 09:22:31,012 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=01/AsyncOut+0+1047955693.json.gz
+2024-09-12 09:22:33,365 - INFO -     Process Time,         St:2024-09-12 09:22:31.012344  Et:2024-09-12 09:22:33.365299   Rt:2.3529606249649078
+2024-09-12 09:22:33,365 - INFO -     Records Processed       :32954 docs
+2024-09-12 09:22:33,365 - INFO -     Process Rate            :14005.33 docs/s
+2024-09-12 09:22:33,366 - INFO - 
+2024-09-12 09:22:33,366 - INFO -   Hour Processing Time,  St :2024-09-12 09:22:31.011847   Et:2024-09-12 09:22:33.366900   Rt:2.3550572919193655
+2024-09-12 09:22:33,366 - INFO -   Hour Records Processed    :32954 docs
+2024-09-12 09:22:33,366 - INFO -   Hour Process Rate         :13992.87 docs/s
+2024-09-12 09:22:33,367 - INFO - 
+2024-09-12 09:22:33,367 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=02
+2024-09-12 09:22:33,367 - INFO - 
+2024-09-12 09:22:33,367 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=02/AsyncOut+0+1047988647.json.gz
+2024-09-12 09:22:57,404 - INFO -     Process Time,         St:2024-09-12 09:22:33.367748  Et:2024-09-12 09:22:57.404314   Rt:24.03659437492024
+2024-09-12 09:22:57,404 - INFO -     Records Processed       :324950 docs
+2024-09-12 09:22:57,404 - INFO -     Process Rate            :13518.97 docs/s
+2024-09-12 09:22:57,407 - INFO - 
+2024-09-12 09:22:57,407 - INFO -   Hour Processing Time,  St :2024-09-12 09:22:33.367027   Et:2024-09-12 09:22:57.407025   Rt:24.04002537508495
+2024-09-12 09:22:57,407 - INFO -   Hour Records Processed    :324950 docs
+2024-09-12 09:22:57,407 - INFO -   Hour Process Rate         :13517.04 docs/s
+2024-09-12 09:22:57,407 - INFO - 
+2024-09-12 09:22:57,407 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=03
+2024-09-12 09:22:57,408 - INFO - 
+2024-09-12 09:22:57,408 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=03/AsyncOut+0+1048313597.json.gz
+2024-09-12 09:22:59,434 - INFO -     Process Time,         St:2024-09-12 09:22:57.408300  Et:2024-09-12 09:22:59.434478   Rt:2.026184207992628
+2024-09-12 09:22:59,434 - INFO -     Records Processed       :27252 docs
+2024-09-12 09:22:59,434 - INFO -     Process Rate            :13449.91 docs/s
+2024-09-12 09:22:59,435 - INFO - 
+2024-09-12 09:22:59,435 - INFO -   Hour Processing Time,  St :2024-09-12 09:22:57.407231   Et:2024-09-12 09:22:59.435146   Rt:2.027917458093725
+2024-09-12 09:22:59,435 - INFO -   Hour Records Processed    :27252 docs
+2024-09-12 09:22:59,435 - INFO -   Hour Process Rate         :13438.42 docs/s
+2024-09-12 09:22:59,435 - INFO - 
+2024-09-12 09:22:59,435 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=04
+2024-09-12 09:22:59,435 - INFO - 
+2024-09-12 09:22:59,435 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=04/AsyncOut+0+1048340849.json.gz
+2024-09-12 09:23:04,903 - INFO -     Process Time,         St:2024-09-12 09:22:59.435451  Et:2024-09-12 09:23:04.903493   Rt:5.4680527079617605
+2024-09-12 09:23:04,903 - INFO -     Records Processed       :75166 docs
+2024-09-12 09:23:04,903 - INFO -     Process Rate            :13746.39 docs/s
+2024-09-12 09:23:04,904 - INFO - 
+2024-09-12 09:23:04,904 - INFO -   Hour Processing Time,  St :2024-09-12 09:22:59.435271   Et:2024-09-12 09:23:04.904107   Rt:5.468841542024165
+2024-09-12 09:23:04,904 - INFO -   Hour Records Processed    :75166 docs
+2024-09-12 09:23:04,904 - INFO -   Hour Process Rate         :13744.41 docs/s
+2024-09-12 09:23:04,904 - INFO - 
+2024-09-12 09:23:04,904 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=05
+2024-09-12 09:23:04,905 - INFO - 
+2024-09-12 09:23:04,905 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=05/AsyncOut+0+1048416015.json.gz
+2024-09-12 09:24:14,181 - INFO -     Process Time,         St:2024-09-12 09:23:04.905304  Et:2024-09-12 09:24:14.181001   Rt:69.27576424996369
+2024-09-12 09:24:14,181 - INFO -     Records Processed       :954039 docs
+2024-09-12 09:24:14,181 - INFO -     Process Rate            :13771.61 docs/s
+2024-09-12 09:24:14,181 - INFO - 
+2024-09-12 09:24:14,181 - INFO -   Hour Processing Time,  St :2024-09-12 09:23:04.904213   Et:2024-09-12 09:24:14.181533   Rt:69.27738433296327
+2024-09-12 09:24:14,181 - INFO -   Hour Records Processed    :954039 docs
+2024-09-12 09:24:14,181 - INFO -   Hour Process Rate         :13771.29 docs/s
+2024-09-12 09:24:14,181 - INFO - 
+2024-09-12 09:24:14,181 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=06
+2024-09-12 09:24:14,183 - INFO - 
+2024-09-12 09:24:14,183 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=06/AsyncOut+0+1049370054.json.gz
+2024-09-12 09:25:24,787 - INFO -     Process Time,         St:2024-09-12 09:24:14.183381  Et:2024-09-12 09:25:24.787398   Rt:70.60408650001045
+2024-09-12 09:25:24,787 - INFO -     Records Processed       :912267 docs
+2024-09-12 09:25:24,787 - INFO -     Process Rate            :12920.88 docs/s
+2024-09-12 09:25:24,788 - INFO - 
+2024-09-12 09:25:24,788 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=06/AsyncOut+0+1050282322.json.gz
+2024-09-12 09:25:24,790 - INFO -     Process Time,         St:2024-09-12 09:25:24.788801  Et:2024-09-12 09:25:24.790017   Rt:0.0012169169494882226
+2024-09-12 09:25:24,790 - INFO -     Records Processed       :2 docs
+2024-09-12 09:25:24,790 - INFO -     Process Rate            :1643.5 docs/s
+2024-09-12 09:25:24,790 - INFO - 
+2024-09-12 09:25:24,790 - INFO -   Hour Processing Time,  St :2024-09-12 09:24:14.181662   Et:2024-09-12 09:25:24.790143   Rt:70.60854583291803
+2024-09-12 09:25:24,790 - INFO -   Hour Records Processed    :912269 docs
+2024-09-12 09:25:24,790 - INFO -   Hour Process Rate         :12920.09 docs/s
+2024-09-12 09:25:24,790 - INFO - 
+2024-09-12 09:25:24,790 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=07
+2024-09-12 09:25:24,790 - INFO - 
+2024-09-12 09:25:24,790 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=07/AsyncOut+0+1050282321.json.gz
+2024-09-12 09:25:24,791 - INFO -     Process Time,         St:2024-09-12 09:25:24.791005  Et:2024-09-12 09:25:24.791324   Rt:0.0003194171003997326
+2024-09-12 09:25:24,791 - INFO -     Records Processed       :1 docs
+2024-09-12 09:25:24,791 - INFO -     Process Rate            :3130.7 docs/s
+2024-09-12 09:25:24,791 - INFO - 
+2024-09-12 09:25:24,791 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=07/AsyncOut+0+1050282324.json.gz
+2024-09-12 09:25:46,296 - INFO -     Process Time,         St:2024-09-12 09:25:24.791460  Et:2024-09-12 09:25:46.296840   Rt:21.5054035410285
+2024-09-12 09:25:46,297 - INFO -     Records Processed       :287437 docs
+2024-09-12 09:25:46,297 - INFO -     Process Rate            :13365.8 docs/s
+2024-09-12 09:25:46,297 - INFO - 
+2024-09-12 09:25:46,297 - INFO -   Hour Processing Time,  St :2024-09-12 09:25:24.790243   Et:2024-09-12 09:25:46.297908   Rt:21.507686457945965
+2024-09-12 09:25:46,298 - INFO -   Hour Records Processed    :287438 docs
+2024-09-12 09:25:46,298 - INFO -   Hour Process Rate         :13364.43 docs/s
+2024-09-12 09:25:46,298 - INFO - 
+2024-09-12 09:25:46,298 - INFO -   Hour Dir                  :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=08
+2024-09-12 09:25:46,298 - INFO - 
+2024-09-12 09:25:46,298 - INFO -   File                      :/Users/george/Desktop/bsa-dev/python/fs_aric_aws/AsyncOut/year=2024/month=08/day=17/hour=08/AsyncOut+0+1050569761.json.gz
