@@ -1,0 +1,5 @@
+#!/bin/bash
+
+export MONGO_USERNAME=
+export MONGO_PASSWORD=  
+
